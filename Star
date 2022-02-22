@@ -741,3 +741,61 @@ http://stariptv.org:8080/wael2021/123456/55933
 http://stariptv.org:8080/wael2021/123456/55938
 #EXTINF:-1,OSN: COMEDY
 http://stariptv.org:8080/wael2021/123456/55981
+#EXTINF:-1,beIN MOVIES FAMILY
+http://stariptv.org:8080/wael2021/123456/131987
+#EXTINF:-1,beIN MOVIES DRAMA
+http://stariptv.org:8080/wael2021/123456/131988
+#EXTINF:-1,beIN MOVIES ACTION
+http://stariptv.org:8080/wael2021/123456/131989
+#EXTINF:-1,beIN MOVIES Premiere
+http://stariptv.org:8080/wael2021/123456/131990
+#EXTINF:-1,beIN SERIES HD1
+http://stariptv.org:8080/wael2021/123456/131991
+#EXTINF:-1,beIN SERIES HD2
+http://stariptv.org:8080/wael2021/123456/131992
+#EXTINF:-1,beIN DRAMA
+http://stariptv.org:8080/wael2021/123456/131993
+#EXTINF:-1,beIN bbc earth
+http://stariptv.org:8080/wael2021/123456/131994
+#EXTINF:-1,beIN BARAEM
+http://stariptv.org:8080/wael2021/123456/131995
+#EXTINF:-1,beIN GOURMET
+http://stariptv.org:8080/wael2021/123456/131997
+#EXTINF:-1,beIN JEEM HD
+http://stariptv.org:8080/wael2021/123456/131998
+#EXTINF:-1,beIN JENIOR HD
+http://stariptv.org:8080/wael2021/123456/132000
+#EXTINF:-1,beIN  Boomerang HD
+http://stariptv.org:8080/wael2021/123456/132001
+#EXTINF:-1,beIN FOX Rewayat
+http://stariptv.org:8080/wael2021/123456/132002
+#EXTINF:-1,beIN FX HD
+http://stariptv.org:8080/wael2021/123456/132003
+#EXTINF:-1,beIN FOX LIFE
+http://stariptv.org:8080/wael2021/123456/132004
+#EXTINF:-1,beIN FOX CRIME
+http://stariptv.org:8080/wael2021/123456/132005
+#EXTINF:-1,beIN FOX HD
+http://stariptv.org:8080/wael2021/123456/132006
+#EXTINF:-1,beIN FOX MOVIES ACTION
+http://stariptv.org:8080/wael2021/123456/132007
+#EXTINF:-1,beIN FOX Family Movies HD
+http://stariptv.org:8080/wael2021/123456/132008
+#EXTINF:-1,beIN FoodNetwork HD
+http://stariptv.org:8080/wael2021/123456/132009
+#EXTINF:-1,beIN HG HD
+http://stariptv.org:8080/wael2021/123456/132010
+#EXTINF:-1,beIN Dream Works
+http://stariptv.org:8080/wael2021/123456/132011
+#EXTINF:-1,beIN Travel
+http://stariptv.org:8080/wael2021/123456/132012
+#EXTINF:-1,beIN CARTOON NETWORK
+http://stariptv.org:8080/wael2021/123456/132014
+#EXTINF:-1,beIN FATAFEAT
+http://stariptv.org:8080/wael2021/123456/132015
+#EXTINF:-1,beIN Nat Geo Wild
+http://stariptv.org:8080/wael2021/123456/132016
+#EXTINF:-1,beIN Discovery Family HD
+http://stariptv.org:8080/wael2021/123456/132017
+#EXTINF:-1,beIN FOX MOVIES
+http://stariptv.org:8080/wael2021/123456/22176
