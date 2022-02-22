@@ -1,0 +1,589 @@
+#EXTM3U
+#EXTINF:-1,FR: AMAZONE PRIME 1 Full HD
+http://stariptv.org:8080/wael2021/123456/143147
+#EXTINF:-1,FR: AMAZONE PRIME 2 Full HD
+http://stariptv.org:8080/wael2021/123456/143148
+#EXTINF:-1,FR: AMAZONE PRIME 3 Full HD
+http://stariptv.org:8080/wael2021/123456/143149
+#EXTINF:-1,FR: AMAZONE PRIME 4 Full HD
+http://stariptv.org:8080/wael2021/123456/143150
+#EXTINF:-1,FR: AMAZONE PRIME 5 Full HD
+http://stariptv.org:8080/wael2021/123456/143151
+#EXTINF:-1,FR: AMAZONE PRIME 6 Full HD
+http://stariptv.org:8080/wael2021/123456/143152
+#EXTINF:-1,FR: AMAZONE PRIME 7 Full HD
+http://stariptv.org:8080/wael2021/123456/143153
+#EXTINF:-1,FR: AMAZONE PRIME 8 Full HD
+http://stariptv.org:8080/wael2021/123456/143154
+#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE Full HD
+http://stariptv.org:8080/wael2021/123456/143155
+#EXTINF:-1,FR: CANAL+ TOP 14 RUGBY Full HD
+http://stariptv.org:8080/wael2021/123456/143156
+#EXTINF:-1,FR: CANAL+ FORMULE 1 Full HD
+http://stariptv.org:8080/wael2021/123456/143157
+#EXTINF:-1,FR: CANAL+ MOTO GP Full HD
+http://stariptv.org:8080/wael2021/123456/143158
+#EXTINF:-1,FR: TF1
+http://stariptv.org:8080/wael2021/123456/612
+#EXTINF:-1,FR: TF1 FHD
+http://stariptv.org:8080/wael2021/123456/56327
+#EXTINF:-1,FR: FRANCE 2
+http://stariptv.org:8080/wael2021/123456/613
+#EXTINF:-1,FR: FRANCE 2 FHD
+http://stariptv.org:8080/wael2021/123456/56268
+#EXTINF:-1,FR: FRANCE 3
+http://stariptv.org:8080/wael2021/123456/614
+#EXTINF:-1,FR: FRANCE 3 FHD
+http://stariptv.org:8080/wael2021/123456/56269
+#EXTINF:-1,FR: FRANCE 4
+http://stariptv.org:8080/wael2021/123456/615
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://stariptv.org:8080/wael2021/123456/56270
+#EXTINF:-1,FR: FRANCE 5
+http://stariptv.org:8080/wael2021/123456/616
+#EXTINF:-1,FR: FRANCE 5 FHD
+http://stariptv.org:8080/wael2021/123456/56271
+#EXTINF:-1,FR: FRANCE O
+http://stariptv.org:8080/wael2021/123456/604
+#EXTINF:-1,FR: FRANCE O FHD
+http://stariptv.org:8080/wael2021/123456/56272
+#EXTINF:-1,FR: M6
+http://stariptv.org:8080/wael2021/123456/617
+#EXTINF:-1,FR: M6 FHD
+http://stariptv.org:8080/wael2021/123456/56281
+#EXTINF:-1,FR: ARTE
+http://stariptv.org:8080/wael2021/123456/10282
+#EXTINF:-1,FR: TF1 SERIES FILM
+http://stariptv.org:8080/wael2021/123456/4281
+#EXTINF:-1,FR: TF1 SERIES FILMS FHD
+http://stariptv.org:8080/wael2021/123456/56329
+#EXTINF:-1,FR: PARIS PREMIERE
+http://stariptv.org:8080/wael2021/123456/4911
+#EXTINF:-1,FR: PARIS PREMIERE FHD
+http://stariptv.org:8080/wael2021/123456/56304
+#EXTINF:-1,FR: TMC
+http://stariptv.org:8080/wael2021/123456/4304
+#EXTINF:-1,FR: TMC FHD
+http://stariptv.org:8080/wael2021/123456/56333
+#EXTINF:-1,FR: TMC +1 FHD
+http://stariptv.org:8080/wael2021/123456/56332
+#EXTINF:-1,FR: TV BREIZH
+http://stariptv.org:8080/wael2021/123456/4903
+#EXTINF:-1,FR: TV BREIZH FHD
+http://stariptv.org:8080/wael2021/123456/56336
+#EXTINF:-1,FR: CANAL+
+http://stariptv.org:8080/wael2021/123456/630
+#EXTINF:-1,FR: CANAL+ FHD
+http://stariptv.org:8080/wael2021/123456/56236
+#EXTINF:-1,FR: CANAL+ CINEMA
+http://stariptv.org:8080/wael2021/123456/631
+#EXTINF:-1,FR: CANAL+ CINEMA FHD
+http://stariptv.org:8080/wael2021/123456/56233
+#EXTINF:-1,FR: CANAL+ FAMILY
+http://stariptv.org:8080/wael2021/123456/633
+#EXTINF:-1,FR: CANAL+ FAMILY FHD
+http://stariptv.org:8080/wael2021/123456/56235
+#EXTINF:-1,FR: CANAL+ DECALE
+http://stariptv.org:8080/wael2021/123456/632
+#EXTINF:-1,FR: CANAL+ DECALE FHD
+http://stariptv.org:8080/wael2021/123456/56234
+#EXTINF:-1,FR: CANAL+ SERIES
+http://stariptv.org:8080/wael2021/123456/634
+#EXTINF:-1,FR: CANAL+ SERIES FHD
+http://stariptv.org:8080/wael2021/123456/56237
+#EXTINF:-1,FR: CANAL+  SPORT
+http://stariptv.org:8080/wael2021/123456/629
+#EXTINF:-1,FR: CANAL+ SPORT FHD
+http://stariptv.org:8080/wael2021/123456/56238
+#EXTINF:-1,FR: 6TER
+http://stariptv.org:8080/wael2021/123456/4947
+#EXTINF:-1,FR: 6TER FHD
+http://stariptv.org:8080/wael2021/123456/56216
+#EXTINF:-1,FR: OCS MAX
+http://stariptv.org:8080/wael2021/123456/4291
+#EXTINF:-1,FR: OCS MAX FHD
+http://stariptv.org:8080/wael2021/123456/56299
+#EXTINF:-1,FR: OCS CHOC
+http://stariptv.org:8080/wael2021/123456/4288
+#EXTINF:-1,FR: OCS CHOC FHD
+http://stariptv.org:8080/wael2021/123456/56296
+#EXTINF:-1,FR: OCS CITY
+http://stariptv.org:8080/wael2021/123456/4289
+#EXTINF:-1,FR: OCS CITY FHD
+http://stariptv.org:8080/wael2021/123456/56297
+#EXTINF:-1,FR: OCS GEANT
+http://stariptv.org:8080/wael2021/123456/8300
+#EXTINF:-1,FR: OCS GEANT FHD
+http://stariptv.org:8080/wael2021/123456/56298
+#EXTINF:-1,FR: CINE+ PREMIER
+http://stariptv.org:8080/wael2021/123456/3893
+#EXTINF:-1,FR: CINE+ PREMIER FHD
+http://stariptv.org:8080/wael2021/123456/56245
+#EXTINF:-1,FR: CINE+ EMOTION
+http://stariptv.org:8080/wael2021/123456/4268
+#EXTINF:-1,FR: CINE+ EMOTION FHD
+http://stariptv.org:8080/wael2021/123456/56247
+#EXTINF:-1,FR: CINE+ FRISSON
+http://stariptv.org:8080/wael2021/123456/4270
+#EXTINF:-1,FR: CINE+ FRISSON FHD
+http://stariptv.org:8080/wael2021/123456/56244
+#EXTINF:-1,FR: CINE+ FAMIZ
+http://stariptv.org:8080/wael2021/123456/4272
+#EXTINF:-1,FR: CINE+ FAMIZ FHD
+http://stariptv.org:8080/wael2021/123456/56243
+#EXTINF:-1,FR: CINE+ CLASSIC
+http://stariptv.org:8080/wael2021/123456/4271
+#EXTINF:-1,FR: CINE+ CLASSIC FHD
+http://stariptv.org:8080/wael2021/123456/56246
+#EXTINF:-1,FR: CINE+  CLUB
+http://stariptv.org:8080/wael2021/123456/15363
+#EXTINF:-1,FR: CINE+ CLUB FHD
+http://stariptv.org:8080/wael2021/123456/15344
+#EXTINF:-1,FR:  POLAR+
+http://stariptv.org:8080/wael2021/123456/3896
+#EXTINF:-1,FR:  POLAR+ FHD
+http://stariptv.org:8080/wael2021/123456/56309
+#EXTINF:-1,FR: ACTION
+http://stariptv.org:8080/wael2021/123456/4267
+#EXTINF:-1,FR: ACTION FHD
+http://stariptv.org:8080/wael2021/123456/56221
+#EXTINF:-1,FR: TCM CINEMA
+http://stariptv.org:8080/wael2021/123456/10161
+#EXTINF:-1,FR: TCM CINEMA FHD
+http://stariptv.org:8080/wael2021/123456/56323
+#EXTINF:-1,FR: PARAMOUNT
+http://stariptv.org:8080/wael2021/123456/10181
+#EXTINF:-1,FR: PARAMOUNT CHANNEL FHD
+http://stariptv.org:8080/wael2021/123456/56302
+#EXTINF:-1,FR: TOONAMI
+http://stariptv.org:8080/wael2021/123456/10191
+#EXTINF:-1,FR: TOONAMI FHD
+http://stariptv.org:8080/wael2021/123456/56334
+#EXTINF:-1,FR: Syfy
+http://stariptv.org:8080/wael2021/123456/4302
+#EXTINF:-1,FR: SYFY FHD
+http://stariptv.org:8080/wael2021/123456/56322
+#EXTINF:-1,FR: 13eme rue
+http://stariptv.org:8080/wael2021/123456/4266
+#EXTINF:-1,FR: COMEDIE+
+http://stariptv.org:8080/wael2021/123456/4274
+#EXTINF:-1,FR: COMEDIE+ FHD
+http://stariptv.org:8080/wael2021/123456/56248
+#EXTINF:-1,FR: AB1
+http://stariptv.org:8080/wael2021/123456/3894
+#EXTINF:-1,FR: AB1 FHD
+http://stariptv.org:8080/wael2021/123456/56219
+#EXTINF:-1,FR: AB3
+http://stariptv.org:8080/wael2021/123456/11798
+#EXTINF:-1,FR: AB3 FHD
+http://stariptv.org:8080/wael2021/123456/56220
+#EXTINF:-1,FR: TFX
+http://stariptv.org:8080/wael2021/123456/4286
+#EXTINF:-1,FR: TFX FHD
+http://stariptv.org:8080/wael2021/123456/56330
+#EXTINF:-1,FR: Serie Club
+http://stariptv.org:8080/wael2021/123456/4298
+#EXTINF:-1,FR: SERIE CLUB FHD
+http://stariptv.org:8080/wael2021/123456/56319
+#EXTINF:-1,FR: TEVA
+http://stariptv.org:8080/wael2021/123456/4303
+#EXTINF:-1,FR: TEVA FHD
+http://stariptv.org:8080/wael2021/123456/56326
+#EXTINF:-1,FR: W9
+http://stariptv.org:8080/wael2021/123456/598
+#EXTINF:-1,FR: C8
+http://stariptv.org:8080/wael2021/123456/593
+#EXTINF:-1,FR: C8 FHD
+http://stariptv.org:8080/wael2021/123456/56232
+#EXTINF:-1,FR: CSTAR
+http://stariptv.org:8080/wael2021/123456/4275
+#EXTINF:-1,FR: NUMERO 23
+http://stariptv.org:8080/wael2021/123456/4913
+#EXTINF:-1,FR: RTL 9
+http://stariptv.org:8080/wael2021/123456/10172
+#EXTINF:-1,FR: RTL9 FHD
+http://stariptv.org:8080/wael2021/123456/56316
+#EXTINF:-1,FR: beIN SPORT 1
+http://stariptv.org:8080/wael2021/123456/635
+#EXTINF:-1,FR: BEIN SPORTS 1 FHD
+http://stariptv.org:8080/wael2021/123456/56225
+#EXTINF:-1,FR: beIN SPORT 2
+http://stariptv.org:8080/wael2021/123456/636
+#EXTINF:-1,FR: BEIN SPORTS 2 FHD
+http://stariptv.org:8080/wael2021/123456/56226
+#EXTINF:-1,FR: beIN SPORT 3
+http://stariptv.org:8080/wael2021/123456/637
+#EXTINF:-1,FR: BEIN SPORTS 3 FHD
+http://stariptv.org:8080/wael2021/123456/56227
+#EXTINF:-1,FR: beIN  MAX 4
+http://stariptv.org:8080/wael2021/123456/4954
+#EXTINF:-1,FR: beIN  MAX 5
+http://stariptv.org:8080/wael2021/123456/4953
+#EXTINF:-1,FR: beIN  MAX 6
+http://stariptv.org:8080/wael2021/123456/4952
+#EXTINF:-1,FR: beIN  MAX 7
+http://stariptv.org:8080/wael2021/123456/4951
+#EXTINF:-1,FR: beIN  MAX 8
+http://stariptv.org:8080/wael2021/123456/4950
+#EXTINF:-1,FR: beIN  MAX 9
+http://stariptv.org:8080/wael2021/123456/4949
+#EXTINF:-1,FR: beIN  MAX 10
+http://stariptv.org:8080/wael2021/123456/4948
+#EXTINF:-1,FR: FOOT +
+http://stariptv.org:8080/wael2021/123456/4280
+#EXTINF:-1,FR: FOOT+ FHD
+http://stariptv.org:8080/wael2021/123456/56265
+#EXTINF:-1,FR: LUXE TV HD
+http://stariptv.org:8080/wael2021/123456/4282
+#EXTINF:-1,FR: LEQUIPE 21
+http://stariptv.org:8080/wael2021/123456/4922
+#EXTINF:-1,FR: L EQUIPE 21 FHD
+http://stariptv.org:8080/wael2021/123456/56280
+#EXTINF:-1,FR: INFOSPORT+
+http://stariptv.org:8080/wael2021/123456/10207
+#EXTINF:-1,FR: INFOSPORT+ FHD
+http://stariptv.org:8080/wael2021/123456/56278
+#EXTINF:-1,FR: Eurosport 1
+http://stariptv.org:8080/wael2021/123456/4357
+#EXTINF:-1,FR: EUROSPORT 1 FHD
+http://stariptv.org:8080/wael2021/123456/56261
+#EXTINF:-1,FR: Eurosport 2
+http://stariptv.org:8080/wael2021/123456/4356
+#EXTINF:-1,FR: EUROSPORT 2 FHD
+http://stariptv.org:8080/wael2021/123456/56262
+#EXTINF:-1,FR: AB Moteurs
+http://stariptv.org:8080/wael2021/123456/4946
+#EXTINF:-1,FR: AB MOTEUR FHD
+http://stariptv.org:8080/wael2021/123456/56218
+#EXTINF:-1,FR: Equidia live
+http://stariptv.org:8080/wael2021/123456/4935
+#EXTINF:-1,FR: GOLF CHANNEL
+http://stariptv.org:8080/wael2021/123456/10212
+#EXTINF:-1,FR: GOLF CHANNEL FHD
+http://stariptv.org:8080/wael2021/123456/56275
+#EXTINF:-1,FR: GOLF+
+http://stariptv.org:8080/wael2021/123456/10211
+#EXTINF:-1,FR: GOLF+ FHD
+http://stariptv.org:8080/wael2021/123456/56274
+#EXTINF:-1,FR: RMC SPORT NEWS
+http://stariptv.org:8080/wael2021/123456/44979
+#EXTINF:-1,FR: RMC SPORT NEWS FHD
+http://stariptv.org:8080/wael2021/123456/56315
+#EXTINF:-1,FR: RMC SPORT 1
+http://stariptv.org:8080/wael2021/123456/4299
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://stariptv.org:8080/wael2021/123456/56311
+#EXTINF:-1,FR: RMC SPORT 2
+http://stariptv.org:8080/wael2021/123456/4300
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://stariptv.org:8080/wael2021/123456/56312
+#EXTINF:-1,FR: RMC SPORT 3
+http://stariptv.org:8080/wael2021/123456/4355
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://stariptv.org:8080/wael2021/123456/56313
+#EXTINF:-1,FR: RMC SPORT 4
+http://stariptv.org:8080/wael2021/123456/10163
+#EXTINF:-1,FR: RMC SPORT 4 FHD
+http://stariptv.org:8080/wael2021/123456/56314
+#EXTINF:-1,FR: RMC SPORT 5
+http://stariptv.org:8080/wael2021/123456/15354
+#EXTINF:-1,FR: RMC SPORT 5 FHD
+http://stariptv.org:8080/wael2021/123456/56320
+#EXTINF:-1,FR: RMC SPORT 6
+http://stariptv.org:8080/wael2021/123456/15345
+#EXTINF:-1,FR: RMC SPORT 7 HD
+http://stariptv.org:8080/wael2021/123456/88725
+#EXTINF:-1,FR: RMC SPORT 8 HD
+http://stariptv.org:8080/wael2021/123456/88726
+#EXTINF:-1,FR: RMC SPORT 9 HD
+http://stariptv.org:8080/wael2021/123456/88727
+#EXTINF:-1,FR: RMC SPORT 10 HD
+http://stariptv.org:8080/wael2021/123456/88728
+#EXTINF:-1,FR: RMC SPORT 11 HD
+http://stariptv.org:8080/wael2021/123456/88729
+#EXTINF:-1,FR: RMC SPORT 12 HD
+http://stariptv.org:8080/wael2021/123456/88730
+#EXTINF:-1,FR: RMC SPORT 13 HD
+http://stariptv.org:8080/wael2021/123456/88731
+#EXTINF:-1,FR: RMC SPORT ACCESS 1
+http://stariptv.org:8080/wael2021/123456/44986
+#EXTINF:-1,FR: RMC SPORT ACCESS 2
+http://stariptv.org:8080/wael2021/123456/44985
+#EXTINF:-1,FR: RMC SPORT ACCESS 3
+http://stariptv.org:8080/wael2021/123456/44984
+#EXTINF:-1,FR: RMC DECOUVERTE
+http://stariptv.org:8080/wael2021/123456/10288
+#EXTINF:-1,FR: RMC DECOUVERTE FHD
+http://stariptv.org:8080/wael2021/123456/56310
+#EXTINF:-1,FR: RMC STORY
+http://stariptv.org:8080/wael2021/123456/36495
+#EXTINF:-1,FR: PLANETE+
+http://stariptv.org:8080/wael2021/123456/596
+#EXTINF:-1,FR: PLANETE +  FHD
+http://stariptv.org:8080/wael2021/123456/56306
+#EXTINF:-1,FR: PLANETE+  A&E
+http://stariptv.org:8080/wael2021/123456/10176
+#EXTINF:-1,FR: PLANETE+ A&E  FHD
+http://stariptv.org:8080/wael2021/123456/56307
+#EXTINF:-1,FR: PLANETE+ CI
+http://stariptv.org:8080/wael2021/123456/10175
+#EXTINF:-1,FR: PLANETE+ CI  FHD
+http://stariptv.org:8080/wael2021/123456/56308
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
+http://stariptv.org:8080/wael2021/123456/590
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC FHD
+http://stariptv.org:8080/wael2021/123456/56287
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC WILD
+http://stariptv.org:8080/wael2021/123456/4284
+#EXTINF:-1,FR: NATIONAL GEO WILD FHD
+http://stariptv.org:8080/wael2021/123456/56286
+#EXTINF:-1,FR: DISCOVERY
+http://stariptv.org:8080/wael2021/123456/10241
+#EXTINF:-1,FR: DISCOVERY FHD
+http://stariptv.org:8080/wael2021/123456/56250
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://stariptv.org:8080/wael2021/123456/4277
+#EXTINF:-1,FR: DISCOVERY SCIENCE FHD
+http://stariptv.org:8080/wael2021/123456/56252
+#EXTINF:-1,FR: Discovery investigation
+http://stariptv.org:8080/wael2021/123456/10240
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION FHD
+http://stariptv.org:8080/wael2021/123456/56251
+#EXTINF:-1,FR: DISCOVERY FAMILY FHD
+http://stariptv.org:8080/wael2021/123456/56249
+#EXTINF:-1,FR: USHUAIA TV
+http://stariptv.org:8080/wael2021/123456/10151
+#EXTINF:-1,FR: SCIENCE ET VIE
+http://stariptv.org:8080/wael2021/123456/10169
+#EXTINF:-1,FR: SCIENCE ET VIE FHD
+http://stariptv.org:8080/wael2021/123456/56317
+#EXTINF:-1,FR: TOUTE LHISTOIRE
+http://stariptv.org:8080/wael2021/123456/10154
+#EXTINF:-1,FR: TOUTE L HISTOIRE FHD
+http://stariptv.org:8080/wael2021/123456/56335
+#EXTINF:-1,FR: Histoire
+http://stariptv.org:8080/wael2021/123456/4348
+#EXTINF:-1,FR: HISTOIRE FHD
+http://stariptv.org:8080/wael2021/123456/56277
+#EXTINF:-1,FR: ANIMAUX
+http://stariptv.org:8080/wael2021/123456/597
+#EXTINF:-1,FR: ANIMAUX FHD
+http://stariptv.org:8080/wael2021/123456/56223
+#EXTINF:-1,FR: CHASSE PECHE
+http://stariptv.org:8080/wael2021/123456/10256
+#EXTINF:-1,FR: CHASSE ET PECHE FHD
+http://stariptv.org:8080/wael2021/123456/56241
+#EXTINF:-1,FR: SEASONS
+http://stariptv.org:8080/wael2021/123456/4772
+#EXTINF:-1,FR: SEASON FHD
+http://stariptv.org:8080/wael2021/123456/56318
+#EXTINF:-1,FR: VOYAGE
+http://stariptv.org:8080/wael2021/123456/4354
+#EXTINF:-1,FR: CHERIE 25
+http://stariptv.org:8080/wael2021/123456/4941
+#EXTINF:-1,FR: CHERIE 25 FHD
+http://stariptv.org:8080/wael2021/123456/56242
+#EXTINF:-1,FR: MTV
+http://stariptv.org:8080/wael2021/123456/10198
+#EXTINF:-1,FR: M6 Music Hits
+http://stariptv.org:8080/wael2021/123456/4359
+#EXTINF:-1,FR: M6 MUSIC
+http://stariptv.org:8080/wael2021/123456/10203
+#EXTINF:-1,FR: MCM
+http://stariptv.org:8080/wael2021/123456/4918
+#EXTINF:-1,FR: NRJ Hits
+http://stariptv.org:8080/wael2021/123456/4915
+#EXTINF:-1,FR: NRJ12
+http://stariptv.org:8080/wael2021/123456/10190
+#EXTINF:-1,FR: NRJ 12 FHD
+http://stariptv.org:8080/wael2021/123456/56295
+#EXTINF:-1,FR: RFM TV
+http://stariptv.org:8080/wael2021/123456/10174
+#EXTINF:-1,FR: Trace Urban
+http://stariptv.org:8080/wael2021/123456/4905
+#EXTINF:-1,FR: Disney
+http://stariptv.org:8080/wael2021/123456/4937
+#EXTINF:-1,FR: DISNEY+1 FHD
+http://stariptv.org:8080/wael2021/123456/56253
+#EXTINF:-1,FR: DISNEY FHD
+http://stariptv.org:8080/wael2021/123456/56254
+#EXTINF:-1,FR: DISNEY+ FHD
+http://stariptv.org:8080/wael2021/123456/10237
+#EXTINF:-1,FR: Disney Junior
+http://stariptv.org:8080/wael2021/123456/4364
+#EXTINF:-1,FR: DISNEY JUNIOR FHD
+http://stariptv.org:8080/wael2021/123456/56256
+#EXTINF:-1,FR: DISNEY+ HD
+http://stariptv.org:8080/wael2021/123456/56255
+#EXTINF:-1,FR: DISNEY XD FHD
+http://stariptv.org:8080/wael2021/123456/56257
+#EXTINF:-1,FR: BOOMERANG
+http://stariptv.org:8080/wael2021/123456/628
+#EXTINF:-1,FR: BOOMERANG FHD
+http://stariptv.org:8080/wael2021/123456/56231
+#EXTINF:-1,FR: CARTOON NETWORK
+http://stariptv.org:8080/wael2021/123456/4899
+#EXTINF:-1,FR: CARTOON NETWORK FHD
+http://stariptv.org:8080/wael2021/123456/56240
+#EXTINF:-1,FR: NICKELODEON
+http://stariptv.org:8080/wael2021/123456/10193
+#EXTINF:-1,FR: NICKELODEON FHD
+http://stariptv.org:8080/wael2021/123456/56289
+#EXTINF:-1,FR: Nickelodeon Junior
+http://stariptv.org:8080/wael2021/123456/4366
+#EXTINF:-1,FR: NICKELODEON JUNIOR FHD
+http://stariptv.org:8080/wael2021/123456/56290
+#EXTINF:-1,FR: NICKELODEON4-TEEN FHD
+http://stariptv.org:8080/wael2021/123456/56291
+#EXTINF:-1,FR: BOING
+http://stariptv.org:8080/wael2021/123456/10270
+#EXTINF:-1,FR: BOING FHD
+http://stariptv.org:8080/wael2021/123456/56230
+#EXTINF:-1,FR: TELETOON+1
+http://stariptv.org:8080/wael2021/123456/10160
+#EXTINF:-1,FR: TELETOON+1 FHD
+http://stariptv.org:8080/wael2021/123456/56324
+#EXTINF:-1,FR: TELETOON+
+http://stariptv.org:8080/wael2021/123456/595
+#EXTINF:-1,FR: TELETOON+  FHD
+http://stariptv.org:8080/wael2021/123456/56325
+#EXTINF:-1,FR: MEZZO LIVE
+http://stariptv.org:8080/wael2021/123456/10200
+#EXTINF:-1,FR: Brava
+http://stariptv.org:8080/wael2021/123456/4942
+#EXTINF:-1,FR: E! Entertainment
+http://stariptv.org:8080/wael2021/123456/10155
+#EXTINF:-1,FR: Canal J
+http://stariptv.org:8080/wael2021/123456/4368
+#EXTINF:-1,FR: J-ONE
+http://stariptv.org:8080/wael2021/123456/10206
+#EXTINF:-1,FR: Gulli
+http://stariptv.org:8080/wael2021/123456/609
+#EXTINF:-1,FR: PIWI+
+http://stariptv.org:8080/wael2021/123456/10178
+#EXTINF:-1,FR: Tiji
+http://stariptv.org:8080/wael2021/123456/10157
+#EXTINF:-1,FR: MANGAS
+http://stariptv.org:8080/wael2021/123456/10202
+#EXTINF:-1,FR: Game One
+http://stariptv.org:8080/wael2021/123456/4360
+#EXTINF:-1,FR: LCI
+http://stariptv.org:8080/wael2021/123456/4923
+#EXTINF:-1,FR: BFM TV
+http://stariptv.org:8080/wael2021/123456/4943
+#EXTINF:-1,FR: Euronews
+http://stariptv.org:8080/wael2021/123456/4933
+#EXTINF:-1,FR: FRANCE INFO
+http://stariptv.org:8080/wael2021/123456/4928
+#EXTINF:-1,FR: CNEWS
+http://stariptv.org:8080/wael2021/123456/602
+#EXTINF:-1,FR: FRANCE 24
+http://stariptv.org:8080/wael2021/123456/10218
+#EXTINF:-1,FR: RTS UN
+http://stariptv.org:8080/wael2021/123456/10170
+#EXTINF:-1,FR: RTS DEUX
+http://stariptv.org:8080/wael2021/123456/10171
+#EXTINF:-1,FR: CRIME DISTRICT
+http://stariptv.org:8080/wael2021/123456/10244
+#EXTINF:-1,FR: BFM BUSINESS
+http://stariptv.org:8080/wael2021/123456/15349
+#EXTINF:-1,FR: LCP
+http://stariptv.org:8080/wael2021/123456/15351
+#EXTINF:-1,FR: MCM TOP
+http://stariptv.org:8080/wael2021/123456/11799
+#EXTINF:-1,FR: MTV HITS
+http://stariptv.org:8080/wael2021/123456/15355
+#EXTINF:-1,FR: TREK
+http://stariptv.org:8080/wael2021/123456/15356
+#EXTINF:-1,FR: TV 5 MONDE
+http://stariptv.org:8080/wael2021/123456/15350
+#EXTINF:-1,FR: A La Carte 1
+http://stariptv.org:8080/wael2021/123456/4345
+#EXTINF:-1,FR: A La Carte 2
+http://stariptv.org:8080/wael2021/123456/4344
+#EXTINF:-1,FR: A La Carte 3
+http://stariptv.org:8080/wael2021/123456/4343
+#EXTINF:-1,FR: A La Carte 4
+http://stariptv.org:8080/wael2021/123456/4342
+#EXTINF:-1,FR: A La Carte 5
+http://stariptv.org:8080/wael2021/123456/4341
+#EXTINF:-1,FR: A La Carte 6
+http://stariptv.org:8080/wael2021/123456/4340
+#EXTINF:-1,FR: A La Carte 7
+http://stariptv.org:8080/wael2021/123456/4339
+#EXTINF:-1,FR: A La Carte 8
+http://stariptv.org:8080/wael2021/123456/4338
+#EXTINF:-1,FR: Canal Play 1
+http://stariptv.org:8080/wael2021/123456/4776
+#EXTINF:-1,FR: Canal Play 2
+http://stariptv.org:8080/wael2021/123456/4775
+#EXTINF:-1,FR: Canal Play 3
+http://stariptv.org:8080/wael2021/123456/4774
+#EXTINF:-1,FR: Canal Play 4
+http://stariptv.org:8080/wael2021/123456/4773
+#EXTINF:-1,FR: Canal Play 5
+http://stariptv.org:8080/wael2021/123456/16225
+#EXTINF:-1,FR: Canal Play 6
+http://stariptv.org:8080/wael2021/123456/16224
+#EXTINF:-1,FR: Canal Play 7
+http://stariptv.org:8080/wael2021/123456/16223
+#EXTINF:-1,FR: Paramount Channel Decale
+http://stariptv.org:8080/wael2021/123456/36496
+#EXTINF:-1,FR: BET HD
+http://stariptv.org:8080/wael2021/123456/41681
+#EXTINF:-1,FR: SUNDANCE TV FHD
+http://stariptv.org:8080/wael2021/123456/56321
+#EXTINF:-1,FR: TIJI FHD
+http://stariptv.org:8080/wael2021/123456/56331
+#EXTINF:-1,FR: ALTICE STUDIO FHD
+http://stariptv.org:8080/wael2021/123456/56222
+#EXTINF:-1,FR: BET TV FHD
+http://stariptv.org:8080/wael2021/123456/56228
+#EXTINF:-1,FR: BFM PARIS FHD
+http://stariptv.org:8080/wael2021/123456/56229
+#EXTINF:-1,FR: CANAL J FHD
+http://stariptv.org:8080/wael2021/123456/56239
+#EXTINF:-1,FR: E! ENTERTAINMENT FHD
+http://stariptv.org:8080/wael2021/123456/56258
+#EXTINF:-1,FR: ES1 FHD
+http://stariptv.org:8080/wael2021/123456/56260
+#EXTINF:-1,FR: EXTREME SPORTS FHD
+http://stariptv.org:8080/wael2021/123456/56263
+#EXTINF:-1,FR: AB EXPLORE FHD
+http://stariptv.org:8080/wael2021/123456/56266
+#EXTINF:-1,FR: ALTICE STUDIO
+http://stariptv.org:8080/wael2021/123456/56267
+#EXTINF:-1,FR: GAME ONE FHD
+http://stariptv.org:8080/wael2021/123456/56273
+#EXTINF:-1,FR: GULLI FHD
+http://stariptv.org:8080/wael2021/123456/56276
+#EXTINF:-1,FR: J-ONE FHD
+http://stariptv.org:8080/wael2021/123456/56279
+#EXTINF:-1,FR: MANGAS FHD
+http://stariptv.org:8080/wael2021/123456/56282
+#EXTINF:-1,FR: MUSEUM FHD
+http://stariptv.org:8080/wael2021/123456/56284
+#EXTINF:-1,FR: MY ZEN TV FHD
+http://stariptv.org:8080/wael2021/123456/56285
+#EXTINF:-1,FR: NOLLYWOOD FHD
+http://stariptv.org:8080/wael2021/123456/56292
+#EXTINF:-1,FR: NOVELAS FHD
+http://stariptv.org:8080/wael2021/123456/56294
+#EXTINF:-1,FR: PIWI+ FHD
+http://stariptv.org:8080/wael2021/123456/56305
+#EXTINF:-1,FR: ONZEO FHD
+http://stariptv.org:8080/wael2021/123456/56301
+#EXTINF:-1,FR: PARAMOUNT DECALE FHD
+http://stariptv.org:8080/wael2021/123456/56303
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://stariptv.org:8080/wael2021/123456/71932
+#EXTINF:-1,FR: Orange Cinema 2 HD
+http://stariptv.org:8080/wael2021/123456/71933
+#EXTINF:-1,FR: Orange Cinema 3 HD
+http://stariptv.org:8080/wael2021/123456/71934
+#EXTINF:-1,FR: Orange Cinema 4 HD
+http://stariptv.org:8080/wael2021/123456/71935
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+http://stariptv.org:8080/wael2021/123456/71936
+#EXTINF:-1,FR: Orange Cinema HD
+http://stariptv.org:8080/wael2021/123456/71937
