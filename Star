@@ -587,3 +587,157 @@ http://stariptv.org:8080/wael2021/123456/71935
 http://stariptv.org:8080/wael2021/123456/71936
 #EXTINF:-1,FR: Orange Cinema HD
 http://stariptv.org:8080/wael2021/123456/71937
+#EXTINF:-1,beIN Sport NBA HD
+http://stariptv.org:8080/wael2021/123456/150160
+#EXTINF:-1,beIN 1 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15563
+#EXTINF:-1,beIN 2 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15562
+#EXTINF:-1,beIN 3 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15561
+#EXTINF:-1,AR: beIN EXTRA 1 HD
+http://stariptv.org:8080/wael2021/123456/15721
+#EXTINF:-1,AR: beIN EXTRA 2 HD
+http://stariptv.org:8080/wael2021/123456/15722
+#EXTINF:-1,AR: beIN 1 HD
+http://stariptv.org:8080/wael2021/123456/15560
+#EXTINF:-1,AR: beIN 2 HD
+http://stariptv.org:8080/wael2021/123456/15559
+#EXTINF:-1,AR: beIN 3 HD
+http://stariptv.org:8080/wael2021/123456/15558
+#EXTINF:-1,AR: beIN 4 HD
+http://stariptv.org:8080/wael2021/123456/15557
+#EXTINF:-1,AR: beIN 5 HD
+http://stariptv.org:8080/wael2021/123456/15556
+#EXTINF:-1,AR: beIN 6 HD
+http://stariptv.org:8080/wael2021/123456/15555
+#EXTINF:-1,AR: beIN 7 HD
+http://stariptv.org:8080/wael2021/123456/15720
+#EXTINF:-1,AR: beIN 1 EN HD
+http://stariptv.org:8080/wael2021/123456/112461
+#EXTINF:-1,AR: beIN 2 EN HD
+http://stariptv.org:8080/wael2021/123456/112462
+#EXTINF:-1,AR: beIN 3 EN HD
+http://stariptv.org:8080/wael2021/123456/112463
+#EXTINF:-1,AR: beIN 1 FR HD
+http://stariptv.org:8080/wael2021/123456/112464
+#EXTINF:-1,AR: beIN 2 FR HD
+http://stariptv.org:8080/wael2021/123456/112465
+#EXTINF:-1,AR: beIN 3 FR HD
+http://stariptv.org:8080/wael2021/123456/112466
+#EXTINF:-1,AR: beIN News HD
+http://stariptv.org:8080/wael2021/123456/22185
+#EXTINF:-1,AR: beIN SPORT HD
+http://stariptv.org:8080/wael2021/123456/22186
+#EXTINF:-1,OSN: YA HALA HD
+http://stariptv.org:8080/wael2021/123456/55960
+#EXTINF:-1,OSN: YA HALA Al Oula HD
+http://stariptv.org:8080/wael2021/123456/55961
+#EXTINF:-1,OSN: OSN Yahala Cinema HD
+http://stariptv.org:8080/wael2021/123456/70575
+#EXTINF:-1,OSN: YAHALA CINEMA
+http://stariptv.org:8080/wael2021/123456/55962
+#EXTINF:-1,OSN: OSN ALFA MOSALSALAT 1
+http://stariptv.org:8080/wael2021/123456/70577
+#EXTINF:-1,OSN: OSN ALFA MOSALSALAT 2
+http://stariptv.org:8080/wael2021/123456/70578
+#EXTINF:-1,OSN: ALFA ALYOUM HD
+http://stariptv.org:8080/wael2021/123456/55978
+#EXTINF:-1,OSN: OSN ALFA AL SAFWA
+http://stariptv.org:8080/wael2021/123456/70576
+#EXTINF:-1,OSN: OSN ALFA MUSIC NOW
+http://stariptv.org:8080/wael2021/123456/70579
+#EXTINF:-1,OSN: OSN ALFA FANN HD
+http://stariptv.org:8080/wael2021/123456/70580
+#EXTINF:-1,OSN: ALFA Cinema 1 HD
+http://stariptv.org:8080/wael2021/123456/55979
+#EXTINF:-1,OSN: ALFA Cinema 2 HD
+http://stariptv.org:8080/wael2021/123456/55980
+#EXTINF:-1,OSN: WWE FHD
+http://stariptv.org:8080/wael2021/123456/92311
+#EXTINF:-1,OSN: MOVIES FIRST HD
+http://stariptv.org:8080/wael2021/123456/55934
+#EXTINF:-1,OSN: MOVIES  FIRST +2 HD
+http://stariptv.org:8080/wael2021/123456/55935
+#EXTINF:-1,OSN: MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55939
+#EXTINF:-1,OSN: MOVIES ACTION HD
+http://stariptv.org:8080/wael2021/123456/55940
+#EXTINF:-1,OSN: MOVIES BINGI
+http://stariptv.org:8080/wael2021/123456/55941
+#EXTINF:-1,OSN: MOVIES Disney HD
+http://stariptv.org:8080/wael2021/123456/55942
+#EXTINF:-1,OSN: MOVIES ENGIMA HD
+http://stariptv.org:8080/wael2021/123456/55943
+#EXTINF:-1,OSN: MOVIES KIDS HD
+http://stariptv.org:8080/wael2021/123456/55944
+#EXTINF:-1,OSN: SERIES COMEDY HD
+http://stariptv.org:8080/wael2021/123456/55953
+#EXTINF:-1,OSN Series HD
+http://stariptv.org:8080/wael2021/123456/92309
+#EXTINF:-1,OSN: SERIES FIRST HD
+http://stariptv.org:8080/wael2021/123456/55954
+#EXTINF:-1,OSN: STAR MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55956
+#EXTINF:-1,OSN: STAR WORLD HD
+http://stariptv.org:8080/wael2021/123456/55957
+#EXTINF:-1,OSN: COMEDY CENTRAL HD
+http://stariptv.org:8080/wael2021/123456/55926
+#EXTINF:-1,OSN Crime Investigation
+http://stariptv.org:8080/wael2021/123456/93219
+#EXTINF:-1,OSN Kids HD
+http://stariptv.org:8080/wael2021/123456/92313
+#EXTINF:-1,OSN: BABY HD
+http://stariptv.org:8080/wael2021/123456/55923
+#EXTINF:-1,OSN: DISNEY CHANNEL HD
+http://stariptv.org:8080/wael2021/123456/55931
+#EXTINF:-1,OSN: DISNEY JUNIOR HD
+http://stariptv.org:8080/wael2021/123456/55932
+#EXTINF:-1,OSN: KIDS ZONE HD
+http://stariptv.org:8080/wael2021/123456/55937
+#EXTINF:-1,OSN: NICK JR HD
+http://stariptv.org:8080/wael2021/123456/55949
+#EXTINF:-1,OSN: NICKELODEON HD
+http://stariptv.org:8080/wael2021/123456/55950
+#EXTINF:-1,OSN: NickToons HD
+http://stariptv.org:8080/wael2021/123456/70582
+#EXTINF:-1,OSN Discovery IDX HD
+http://stariptv.org:8080/wael2021/123456/92306
+#EXTINF:-1,OSN: ANIMAL PLANET
+http://stariptv.org:8080/wael2021/123456/55922
+#EXTINF:-1,OSN: DISCOVERY CHANNEL
+http://stariptv.org:8080/wael2021/123456/55927
+#EXTINF:-1,OSN: DISCOVERY ID HD
+http://stariptv.org:8080/wael2021/123456/55929
+#EXTINF:-1,OSN: DISCOVERY SCIENCE
+http://stariptv.org:8080/wael2021/123456/55930
+#EXTINF:-1,OSN: National Geographic HD
+http://stariptv.org:8080/wael2021/123456/55945
+#EXTINF:-1,OSN: NAT GEO PEOPLE HD
+http://stariptv.org:8080/wael2021/123456/55947
+#EXTINF:-1,OSN: National Geographic WILD  HD
+http://stariptv.org:8080/wael2021/123456/55948
+#EXTINF:-1,OSN: PLANET EARTH
+http://stariptv.org:8080/wael2021/123456/55952
+#EXTINF:-1,OSN: OSN H2 HD
+http://stariptv.org:8080/wael2021/123456/70581
+#EXTINF:-1,OSN: HISTORY HD
+http://stariptv.org:8080/wael2021/123456/55936
+#EXTINF:-1,OSN TLC HD
+http://stariptv.org:8080/wael2021/123456/92308
+#EXTINF:-1,OSN Sky News HD
+http://stariptv.org:8080/wael2021/123456/92310
+#EXTINF:-1,OSN Fashion TV HD
+http://stariptv.org:8080/wael2021/123456/92312
+#EXTINF:-1,OSN Enigma HD
+http://stariptv.org:8080/wael2021/123456/92314
+#EXTINF:-1,OSN Play FHD
+http://stariptv.org:8080/wael2021/123456/92316
+#EXTINF:-1,OSN GINX Esports VIP
+http://stariptv.org:8080/wael2021/123456/92317
+#EXTINF:-1,OSN: E! HD
+http://stariptv.org:8080/wael2021/123456/55933
+#EXTINF:-1,OSN: LIVING HD
+http://stariptv.org:8080/wael2021/123456/55938
+#EXTINF:-1,OSN: COMEDY
+http://stariptv.org:8080/wael2021/123456/55981
