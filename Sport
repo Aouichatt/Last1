@@ -1,64 +1,1527 @@
 #EXTM3U
-#EXTINF:-1,BEIN 1 PREMIUM HD
-http://maxq.live:800/000123/111/492
-#EXTINF:-1,BEIN 2 PREMIUM HD
-http://maxq.live:800/000123/111/474
-#EXTINF:-1,BEIN 3 PREMIUM HD
-http://maxq.live:800/000123/111/475
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://maxq.live:800/000123/111/476
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://maxq.live:800/000123/111/477
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://maxq.live:800/000123/111/478
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://maxq.live:800/000123/111/479
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://maxq.live:800/000123/111/480
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://maxq.live:800/000123/111/481
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://maxq.live:800/000123/111/482
-******
-#EXTINF:-1,beIN Sport NBA HD
-http://stariptv.org:8080/wael2021/123456/150160
-#EXTINF:-1,beIN 1 PREMIUM HD
-http://stariptv.org:8080/wael2021/123456/15563
-#EXTINF:-1,beIN 2 PREMIUM HD
-http://stariptv.org:8080/wael2021/123456/15562
-#EXTINF:-1,beIN 3 PREMIUM HD
-http://stariptv.org:8080/wael2021/123456/15561
-#EXTINF:-1,AR: beIN EXTRA 1 HD
-http://stariptv.org:8080/wael2021/123456/15721
-#EXTINF:-1,AR: beIN EXTRA 2 HD
-http://stariptv.org:8080/wael2021/123456/15722
-#EXTINF:-1,AR: beIN 1 HD
-http://stariptv.org:8080/wael2021/123456/15560
-#EXTINF:-1,AR: beIN 2 HD
-http://stariptv.org:8080/wael2021/123456/15559
-#EXTINF:-1,AR: beIN 3 HD
-http://stariptv.org:8080/wael2021/123456/15558
-#EXTINF:-1,AR: beIN 4 HD
-http://stariptv.org:8080/wael2021/123456/15557
-#EXTINF:-1,AR: beIN 5 HD
-http://stariptv.org:8080/wael2021/123456/15556
-#EXTINF:-1,AR: beIN 6 HD
-http://stariptv.org:8080/wael2021/123456/15555
-#EXTINF:-1,AR: beIN 7 HD
-http://stariptv.org:8080/wael2021/123456/15720
-#EXTINF:-1,AR: beIN 1 EN HD
-http://stariptv.org:8080/wael2021/123456/112461
-#EXTINF:-1,AR: beIN 2 EN HD
-http://stariptv.org:8080/wael2021/123456/112462
-#EXTINF:-1,AR: beIN 3 EN HD
-http://stariptv.org:8080/wael2021/123456/112463
-#EXTINF:-1,AR: beIN 1 FR HD
-http://stariptv.org:8080/wael2021/123456/112464
-#EXTINF:-1,AR: beIN 2 FR HD
-http://stariptv.org:8080/wael2021/123456/112465
-#EXTINF:-1,AR: beIN 3 FR HD
-http://stariptv.org:8080/wael2021/123456/112466
-#EXTINF:-1,AR: beIN News HD
-http://stariptv.org:8080/wael2021/123456/22185
-#EXTINF:-1,AR: beIN SPORT HD
-http://stariptv.org:8080/wael2021/123456/22186
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BeIN SPORT_FHD ++++++" tvg-logo="" group-title="Categories",++++++ BeIN SPORT_FHD ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/1
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1_FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/P1.png" group-title="BeIN SPORT_FHD",BeinSport_Prem1_FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/2
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2_FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/P2.png" group-title="BeIN SPORT_FHD",BeinSport_Prem2_FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/3
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3_FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/P3.png" group-title="BeIN SPORT_FHD",BeinSport_Prem3_FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/4
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 1 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/1.png" group-title="BeIN SPORT_FHD",BeinSports 1 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/5
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/2.png" group-title="BeIN SPORT_FHD",BeinSports 2 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/6
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 3 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/3.png" group-title="BeIN SPORT_FHD",BeinSports 3 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/7
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 4 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/4.png" group-title="BeIN SPORT_FHD",BeinSports 4 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/8
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 5 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/5.png" group-title="BeIN SPORT_FHD",Beinsports 5 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/9
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 6 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/6.png" group-title="BeIN SPORT_FHD",Beinsports 6 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/10
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 7 _FHD" tvg-logo="http://logo.panoramahd.com/maroc/files/7.png" group-title="BeIN SPORT_FHD",BeinSports 7 _FHD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/11
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BeIN SPORT_HD ++++++" tvg-logo="" group-title="Categories",++++++ BeIN SPORT_HD ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/12
+#EXTINF:-1 tvg-id="" tvg-name="Bein News" tvg-logo="https://g.top4top.io/p_22912jbds1.png" group-title="BeIN SPORT_HD",Bein News
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/13
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="https://c.top4top.io/p_2291v69sj1.png" group-title="BeIN SPORT_HD",Bein Sports
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/14
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png" group-title="BeIN SPORT_HD",Bein Sports 4K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/15
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/P1.png" group-title="BeIN SPORT_HD",BeinSport_Prem1HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/16
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/P2.png" group-title="BeIN SPORT_HD",BeinSport_Prem2HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/17
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/P3.png" group-title="BeIN SPORT_HD",BeinSport_Prem3HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/18
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/1.png" group-title="BeIN SPORT_HD",Bein Sports 1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/19
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/2.png" group-title="BeIN SPORT_HD",Bein Sports 2 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/20
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/3.png" group-title="BeIN SPORT_HD",Bein Sports 3 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/21
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/4.png" group-title="BeIN SPORT_HD",Bein Sports 4 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/22
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/5.png" group-title="BeIN SPORT_HD",Bein Sports 5 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/23
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/6.png" group-title="BeIN SPORT_HD",Bein Sports 6 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/24
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/7.png" group-title="BeIN SPORT_HD",Bein Sports 7 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/25
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra1 HD" tvg-logo="" group-title="BeIN SPORT_HD",Bein Xtra1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/26
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC1" tvg-logo="" group-title="BeIN SPORT_HD",Bein AFC1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/27
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports_ENG1HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png" group-title="BeIN SPORT_HD",Bein Sports_ENG1HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/28
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports_ENG2HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f214%2fbein-sports-english-1.png" group-title="BeIN SPORT_HD",Bein Sports_ENG2HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/29
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports FRA1HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="BeIN SPORT_HD",BeinSports FRA1HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/30
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports FRA2HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="BeIN SPORT_HD",BeinSports FRA2HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/31
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports FRA3HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="BeIN SPORT_HD",BeinSports FRA3HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/32
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BeIN SPORT_HQ ++++++" tvg-logo="" group-title="Categories",++++++ BeIN SPORT_HQ ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/33
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport Prem1HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/P1.png" group-title="BeIN SPORT_HQ",BeinSport Prem1HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/34
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport Prem2HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/P2.png" group-title="BeIN SPORT_HQ",BeinSport Prem2HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/35
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport Prem3HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/P3.png" group-title="BeIN SPORT_HQ",BeinSport Prem3HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/36
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports  1HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/1.png" group-title="BeIN SPORT_HQ",Bein Sports  1HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/37
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/2.png" group-title="BeIN SPORT_HQ",Bein Sports 2HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/38
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/3.png" group-title="BeIN SPORT_HQ",Bein Sports 3HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/39
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/4.png" group-title="BeIN SPORT_HQ",Bein Sports 4HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/40
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/5.png" group-title="BeIN SPORT_HQ",Bein Sports 5HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/41
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/6.png" group-title="BeIN SPORT_HQ",Bein Sports 6HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/42
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7HQ" tvg-logo="http://logo.panoramahd.com/ALGERIA/files/7.png" group-title="BeIN SPORT_HQ",Bein Sports 7HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/43
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BeIN SPORT_SD ++++++" tvg-logo="" group-title="Categories",++++++ BeIN SPORT_SD ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/44
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/1.png" group-title="BeIN SPORT_SD",BeinSport_Prem1SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/45
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/P2.png" group-title="BeIN SPORT_SD",BeinSport_Prem2SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/46
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/P3.png" group-title="BeIN SPORT_SD",BeinSport_Prem3SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/47
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 1 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/1.png" group-title="BeIN SPORT_SD",BeinSports 1 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/48
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/2.png" group-title="BeIN SPORT_SD",BeinSports 2 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/49
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 3 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/3.png" group-title="BeIN SPORT_SD",BeinSports 3 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/50
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 4 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/4.png" group-title="BeIN SPORT_SD",BeinSports 4 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/51
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 5 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/5.png" group-title="BeIN SPORT_SD",Beinsports 5 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/52
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 6 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/6.png" group-title="BeIN SPORT_SD",Beinsports 6 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/53
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 7 SD" tvg-logo="http://logo.panoramahd.com/SPORTSD/files/7.png" group-title="BeIN SPORT_SD",BeinSports 7 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/54
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BeIN SPORT_512K ++++++" tvg-logo="" group-title="Categories",++++++ BeIN SPORT_512K ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/55
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1512K" tvg-logo="https://h.top4top.io/p_2291yo7g11.png" group-title="BeIN SPORT_512K",BeinSport_Prem1512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/56
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2512K" tvg-logo="https://j.top4top.io/p_2291x3axz1.png" group-title="BeIN SPORT_512K",BeinSport_Prem2512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/57
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3512K" tvg-logo="https://b.top4top.io/p_2291yzvf61.png" group-title="BeIN SPORT_512K",BeinSport_Prem3512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/58
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 1 512K" tvg-logo="https://e.top4top.io/p_229106eqc1.png" group-title="BeIN SPORT_512K",BeinSports 1 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/59
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 512K" tvg-logo="https://a.top4top.io/p_2291ggqsf1.png" group-title="BeIN SPORT_512K",BeinSports 2 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/60
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 3 512K" tvg-logo="https://d.top4top.io/p_2291rskk11.png" group-title="BeIN SPORT_512K",BeinSports 3 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/61
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 4 512K" tvg-logo="https://e.top4top.io/p_2291kflxc1.png" group-title="BeIN SPORT_512K",BeinSports 4 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/62
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 5 512K" tvg-logo="https://g.top4top.io/p_22913up0u1.png" group-title="BeIN SPORT_512K",Beinsports 5 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/63
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 6 512K" tvg-logo="https://j.top4top.io/p_22919z9ds1.png" group-title="BeIN SPORT_512K",Beinsports 6 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/64
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 7 512K" tvg-logo="https://d.top4top.io/p_2291wnaeq1.png" group-title="BeIN SPORT_512K",BeinSports 7 512K
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/65
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BeIN SPORT_Low ++++++" tvg-logo="" group-title="Categories",++++++ BeIN SPORT_Low ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/66
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1_ low" tvg-logo="https://h.top4top.io/p_2291yo7g11.png" group-title="BeIN SPORT_Low ",BeinSport_Prem1_ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/67
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2_ low" tvg-logo="https://j.top4top.io/p_2291x3axz1.png" group-title="BeIN SPORT_Low ",BeinSport_Prem2_ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/68
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3_ low" tvg-logo="https://b.top4top.io/p_2291yzvf61.png" group-title="BeIN SPORT_Low ",BeinSport_Prem3_ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/69
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 1 _ low" tvg-logo="https://e.top4top.io/p_229106eqc1.png" group-title="BeIN SPORT_Low ",BeinSports 1 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/70
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 _ low" tvg-logo="https://a.top4top.io/p_2291ggqsf1.png" group-title="BeIN SPORT_Low ",BeinSports 2 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/71
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 3 _ low" tvg-logo="https://d.top4top.io/p_2291rskk11.png" group-title="BeIN SPORT_Low ",BeinSports 3 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/72
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 4 _ low" tvg-logo="https://e.top4top.io/p_2291kflxc1.png" group-title="BeIN SPORT_Low ",BeinSports 4 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/73
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 5 _ low" tvg-logo="https://g.top4top.io/p_22913up0u1.png" group-title="BeIN SPORT_Low ",Beinsports 5 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/74
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 6 _ low" tvg-logo="https://j.top4top.io/p_22919z9ds1.png" group-title="BeIN SPORT_Low ",Beinsports 6 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/75
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 7 _ low" tvg-logo="https://d.top4top.io/p_2291wnaeq1.png" group-title="BeIN SPORT_Low ",BeinSports 7 _ low
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/76
+#EXTINF:-1 tvg-id="" tvg-name="++++++ FRANCE SPORT ++++++" tvg-logo="" group-title="Categories",++++++ FRANCE SPORT ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/77
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 1 HD" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:Bein Sport 1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/78
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 2 HD" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:Bein Sport 2 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/79
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 3 HD" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:Bein Sport 3 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/80
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX4" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:BEIN SPORT MAX4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/81
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX5" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:BEIN SPORT MAX5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/82
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX6" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:BEIN SPORT MAX6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/83
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX7" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:BEIN SPORT MAX7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/84
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX8" tvg-logo="https://h.top4top.io/p_2301g610v1.png" group-title="FRANCE SPORT",FR:BEIN SPORT MAX8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/85
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 1" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/86
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 2" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/87
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 3" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/88
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 4" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/89
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live5" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport Live5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/90
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live6" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport Live6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/91
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live7" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport Live7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/92
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live8" tvg-logo="https://j.top4top.io/p_2301ysk4u1.png" group-title="FRANCE SPORT",FR:RMC Sport Live8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/93
+#EXTINF:-1 tvg-id="" tvg-name="FR:Foot 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalsat_fr_foot_plus.png" group-title="FRANCE SPORT",FR:Foot 24
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/94
+#EXTINF:-1 tvg-id="" tvg-name="FR:Eurosport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="FRANCE SPORT",FR:Eurosport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/95
+#EXTINF:-1 tvg-id="" tvg-name="FR:Eurosport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="FRANCE SPORT",FR:Eurosport 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/96
+#EXTINF:-1 tvg-id="" tvg-name="FR:Equipe 21" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/l_equipe_fr.png" group-title="FRANCE SPORT",FR:Equipe 21
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/97
+#EXTINF:-1 tvg-id="" tvg-name="FR:Equidia live" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/equidia-fr.png" group-title="FRANCE SPORT",FR:Equidia live
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/98
+#EXTINF:-1 tvg-id="" tvg-name="FR:GOLF + HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_golf_plus.png" group-title="FRANCE SPORT",FR:GOLF + HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/99
+#EXTINF:-1 tvg-id="" tvg-name="FR:Automoto" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/automoto-la-chaine-fr.png" group-title="FRANCE SPORT",FR:Automoto
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/100
+#EXTINF:-1 tvg-id="" tvg-name="++++++ SPORT ARABIC ++++++" tvg-logo="" group-title="Categories",++++++ SPORT ARABIC ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/101
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports1" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/1.png" group-title="SPORT ARABIC",SSC Sports1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/102
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports2" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/2.png" group-title="SPORT ARABIC",SSC Sports2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/103
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports3" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/3.png" group-title="SPORT ARABIC",SSC Sports3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/104
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports4" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/4.png" group-title="SPORT ARABIC",SSC Sports4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/105
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports5" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/5.png" group-title="SPORT ARABIC",SSC Sports5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/106
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports6" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/6.png" group-title="SPORT ARABIC",SSC Sports6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/107
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports7" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/7.png" group-title="SPORT ARABIC",SSC Sports7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/108
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 1" tvg-logo="https://i.top4top.io/p_22928o2ej1.png" group-title="SPORT ARABIC",Dubai Sport 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/109
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 2" tvg-logo="https://i.top4top.io/p_22928o2ej1.png" group-title="SPORT ARABIC",Dubai Sport 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/110
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 3" tvg-logo="https://i.top4top.io/p_22928o2ej1.png" group-title="SPORT ARABIC",Dubai Sport 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/111
+#EXTINF:-1 tvg-id="" tvg-name="Alkass1" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/197aa2cda5dffddf3fda38967713b9e4.png" group-title="SPORT ARABIC",Alkass1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/112
+#EXTINF:-1 tvg-id="" tvg-name="Alkass2" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/197aa2cda5dffddf3fda38967713b9e4.png" group-title="SPORT ARABIC",Alkass2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/113
+#EXTINF:-1 tvg-id="" tvg-name="Alkass4" tvg-logo="http://logo.panoramahd.com/TUNISIA/files/197aa2cda5dffddf3fda38967713b9e4.png" group-title="SPORT ARABIC",Alkass4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/114
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sport 3" tvg-logo="https://b.top4top.io/p_2292isvdz1.png" group-title="SPORT ARABIC",Kuwait Sport 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/115
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sport 4" tvg-logo="https://b.top4top.io/p_2292isvdz1.png" group-title="SPORT ARABIC",Kuwait Sport 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/116
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sport" tvg-logo="http://logo.ndasat.com/iptv/images/12958_abudhabi6.png" group-title="SPORT ARABIC",Sharjah Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/117
+#EXTINF:-1 tvg-id="" tvg-name="Oman Sport TV" tvg-logo="http://logo.ndasat.com/iptv/images/65925_omansport.jpg" group-title="SPORT ARABIC",Oman Sport TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/118
+#EXTINF:-1 tvg-id="" tvg-name="AD_Sport asia1" tvg-logo="" group-title="SPORT ARABIC",AD_Sport asia1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/119
+#EXTINF:-1 tvg-id="" tvg-name="AD_Sport_Asia2" tvg-logo="" group-title="SPORT ARABIC",AD_Sport_Asia2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/120
+#EXTINF:-1 tvg-id="" tvg-name="SerieA_arabic" tvg-logo="" group-title="SPORT ARABIC",SerieA_arabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/121
+#EXTINF:-1 tvg-id="" tvg-name="ON Sports" tvg-logo="http://logo.ndasat.com/iptv/images/93427_onsport.jpg" group-title="SPORT ARABIC",ON Sports
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/122
+#EXTINF:-1 tvg-id="" tvg-name="OnTime Sports1" tvg-logo="" group-title="SPORT ARABIC",OnTime Sports1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/123
+#EXTINF:-1 tvg-id="" tvg-name="OnTime Sports2" tvg-logo="" group-title="SPORT ARABIC",OnTime Sports2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/124
+#EXTINF:-1 tvg-id="" tvg-name="AL HADDAF TV" tvg-logo="http://logo.ndasat.com/iptv/images/13070_191.png" group-title="SPORT ARABIC",AL HADDAF TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/125
+#EXTINF:-1 tvg-id="" tvg-name="Saudi24 Sport" tvg-logo="" group-title="SPORT ARABIC",Saudi24 Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/126
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport1" tvg-logo="" group-title="SPORT ARABIC",Bahrain Sport1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/127
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport2" tvg-logo="" group-title="SPORT ARABIC",Bahrain Sport2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/128
+#EXTINF:-1 tvg-id="" tvg-name="Nile Sport" tvg-logo="http://logo.ndasat.com/iptv/images/59074_183.png" group-title="SPORT ARABIC",Nile Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/129
+#EXTINF:-1 tvg-id="" tvg-name="++++++ BEIN ENTERTANEMENT ++++++" tvg-logo="" group-title="Categories",++++++ BEIN ENTERTANEMENT ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/130
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Movies1" tvg-logo="http://starsat123.com:8080/images/066c7fcfa61e66ecaec999092b335277.png" group-title="BEIN ENTERTANEMENT",Bein-Movies1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/131
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Movies2" tvg-logo="http://starsat123.com:8080/images/d058d6f204bce4481309ad3792a7ddd2.png" group-title="BEIN ENTERTANEMENT",Bein-Movies2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/132
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Movies3" tvg-logo="http://starsat123.com:8080/images/c27817861f1e3b850aa3497da6182049.png" group-title="BEIN ENTERTANEMENT",Bein-Movies3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/133
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Movies4" tvg-logo="http://starsat123.com:8080/images/5e4ea2e833e3b9e8a9a15110dcfc7c37.png" group-title="BEIN ENTERTANEMENT",Bein-Movies4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/134
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama 1" tvg-logo="http://iptv-tn.com:8080/images/d207ea3c30c8f7855e0625232fddd4d6.png" group-title="BEIN ENTERTANEMENT",Bein Drama 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/135
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Series 1" tvg-logo="http://starsat123.com:8080/images/09bf0d3083f0d1695d47a00afcac5b84.png" group-title="BEIN ENTERTANEMENT",Bein-Series 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/136
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Series 2" tvg-logo="https://k.top4top.io/p_2291u9q631.png" group-title="BEIN ENTERTANEMENT",Bein-Series 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/137
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Gourmet" tvg-logo="http://starsat123.com:8080/images/f8db156e0debeaa9aa1b5e0b781a1ee2.png" group-title="BEIN ENTERTANEMENT",Bein-Gourmet
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/138
+#EXTINF:-1 tvg-id="" tvg-name="Bein-Fatafeat" tvg-logo="http://starsat123.com:8080/images/5d1c455f71132cfa0c9e31b78cfc1cb0.png" group-title="BEIN ENTERTANEMENT",Bein-Fatafeat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/139
+#EXTINF:-1 tvg-id="" tvg-name="Bein Outdoor" tvg-logo="https://h.top4top.io/p_2291627yw1.png" group-title="BEIN ENTERTANEMENT",Bein Outdoor
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/140
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People AR" tvg-logo="" group-title="BEIN ENTERTANEMENT",Nat Geo People AR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/141
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geographique AR" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="BEIN ENTERTANEMENT",Nat Geographique AR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/142
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild AR" tvg-logo="http://logo.ndasat.com/iptv/images/19949_NHDwildosn.png" group-title="BEIN ENTERTANEMENT",Nat Geo Wild AR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/143
+#EXTINF:-1 tvg-id="" tvg-name="Bein HGTV" tvg-logo="" group-title="BEIN ENTERTANEMENT",Bein HGTV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/144
+#EXTINF:-1 tvg-id="" tvg-name="Bein DTX" tvg-logo="" group-title="BEIN ENTERTANEMENT",Bein DTX
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/145
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://logo.ndasat.com/iptv/images/47469_animalplanetosn.png" group-title="BEIN ENTERTANEMENT",Animal Planet
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/146
+#EXTINF:-1 tvg-id="" tvg-name="Fox Riwayat" tvg-logo="" group-title="BEIN ENTERTANEMENT",Fox Riwayat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/147
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life AR" tvg-logo="" group-title="BEIN ENTERTANEMENT",Fox Life AR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/148
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime AR" tvg-logo="" group-title="BEIN ENTERTANEMENT",Fox Crime AR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/149
+#EXTINF:-1 tvg-id="" tvg-name="++++++ MOVIES & BOX ++++++" tvg-logo="" group-title="Categories",++++++ MOVIES & BOX ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/150
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Action1" tvg-logo="https://k.top4top.io/p_2292m6ras1.png" group-title="MOVIES & BOX",BeoutQ Action1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/151
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Action2" tvg-logo="https://e.top4top.io/p_2292rs0kt1.png" group-title="MOVIES & BOX",BeoutQ Action2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/152
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Aflam1" tvg-logo="https://d.top4top.io/p_2292q2pii1.png" group-title="MOVIES & BOX",BeoutQ Aflam1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/153
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies 2" tvg-logo="https://e.top4top.io/p_2292kxbe31.png" group-title="MOVIES & BOX",BeoutQ Movies 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/154
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Cinema" tvg-logo="https://e.top4top.io/p_2292zp9ao1.png" group-title="MOVIES & BOX",BeoutQ Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/155
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Kids" tvg-logo="https://c.top4top.io/p_229267pr31.png" group-title="MOVIES & BOX",BeoutQ Kids
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/156
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Disney 1" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Disney 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/157
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Turkish" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Turkish
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/158
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Bollywood
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/159
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Scifi" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Scifi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/160
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Zaman" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Zaman
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/161
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Thriller" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Thriller
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/162
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="http://logo.panoramahd.com/files/NETFLIX.png" group-title="MOVIES & BOX",Netflix Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/163
+#EXTINF:-1 tvg-id="" tvg-name="OXN yahala" tvg-logo="https://www.movieboxfree.com/wp-content/uploads/2019/11/moviebox-logo.png" group-title="MOVIES & BOX",OXN yahala
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/164
+#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema2" tvg-logo="https://www.movieboxfree.com/wp-content/uploads/2019/11/moviebox-logo.png" group-title="MOVIES & BOX",OXN Cinema2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/165
+#EXTINF:-1 tvg-id="" tvg-name="OXN Mix" tvg-logo="https://www.movieboxfree.com/wp-content/uploads/2019/11/moviebox-logo.png" group-title="MOVIES & BOX",OXN Mix
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/166
+#EXTINF:-1 tvg-id="" tvg-name="OXN Zaman" tvg-logo="https://www.movieboxfree.com/wp-content/uploads/2019/11/moviebox-logo.png" group-title="MOVIES & BOX",OXN Zaman
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/167
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Cinema" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/168
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Action1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/169
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Action2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/170
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Movies1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Movies1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/171
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Crime1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Crime1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/172
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Crime2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Crime2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/173
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Horror 1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Horror 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/174
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Horror 2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Horror 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/175
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Thriller1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Thriller1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/176
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Thriller2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Thriller2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/177
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Comedy1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/178
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Comedy2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/179
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Drama1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Drama1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/180
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Drama2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Drama2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/181
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Bollywood2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Bollywood2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/182
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Zaman" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Zaman
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/183
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sci-Fi 1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Sci-Fi 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/184
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Sci-Fi 2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Sci-Fi 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/185
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Cartoon" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Cartoon
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/186
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Kids 2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Kids 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/187
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Adventure1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Adventure1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/188
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Adventure2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Adventure2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/189
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Documentary 1" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Documentary 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/190
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Documentary 2" tvg-logo="http://logo.panoramahd.com/files/SHAHID.png" group-title="MOVIES & BOX",Shahid Documentary 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/191
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX ACTION" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX ACTION
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/192
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX AFLAM 1" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX AFLAM 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/193
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX HORROR" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX HORROR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/194
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX BOX OFFICE 1" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX BOX OFFICE 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/195
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX BOXOFFICE 2" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX BOXOFFICE 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/196
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX COMEDY" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX COMEDY
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/197
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX BOLLYWOODY" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX BOLLYWOODY
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/198
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX ANIME 1" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX ANIME 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/199
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX ANIME 2" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX ANIME 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/200
+#EXTINF:-1 tvg-id="" tvg-name="SKY FLIX DRAMA" tvg-logo="http://logo.panoramahd.com/files/SKYFLIX.png" group-title="MOVIES & BOX",SKY FLIX DRAMA
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/201
+#EXTINF:-1 tvg-id="" tvg-name="MyCinema" tvg-logo="" group-title="MOVIES & BOX",MyCinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/202
+#EXTINF:-1 tvg-id="" tvg-name="Hala TV" tvg-logo="http://logo.ndasat.com/iptv/images/57416_fxhd.jpg" group-title="MOVIES & BOX",Hala TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/203
+#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="http://logo.ndasat.com/iptv/images/97482_OMF.jpg" group-title="MOVIES & BOX",Mix Hollywood
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/204
+#EXTINF:-1 tvg-id="" tvg-name="Adil_Imam1" tvg-logo="" group-title="MOVIES & BOX",Adil_Imam1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/205
+#EXTINF:-1 tvg-id="" tvg-name="Adil_Imam2" tvg-logo="" group-title="MOVIES & BOX",Adil_Imam2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/206
+#EXTINF:-1 tvg-id="" tvg-name="Adil_Imam3" tvg-logo="" group-title="MOVIES & BOX",Adil_Imam3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/207
+#EXTINF:-1 tvg-id="" tvg-name="Ahmed_Hilmi" tvg-logo="" group-title="MOVIES & BOX",Ahmed_Hilmi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/208
+#EXTINF:-1 tvg-id="" tvg-name="Mohamed Henidi" tvg-logo="" group-title="MOVIES & BOX",Mohamed Henidi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/209
+#EXTINF:-1 tvg-id="" tvg-name="Ahmed_Zaki" tvg-logo="" group-title="MOVIES & BOX",Ahmed_Zaki
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/210
+#EXTINF:-1 tvg-id="" tvg-name="Ramzi_Jalal" tvg-logo="" group-title="MOVIES & BOX",Ramzi_Jalal
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/211
+#EXTINF:-1 tvg-id="" tvg-name="Karim Abdelaziz" tvg-logo="http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="MOVIES & BOX",Karim Abdelaziz
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/212
+#EXTINF:-1 tvg-id="" tvg-name="Ahmed_Sa9a" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="MOVIES & BOX",Ahmed_Sa9a
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/213
+#EXTINF:-1 tvg-id="" tvg-name="Mohamed_Saad" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="MOVIES & BOX",Mohamed_Saad
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/214
+#EXTINF:-1 tvg-id="" tvg-name="BO:Hani Ramzi" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="MOVIES & BOX",BO:Hani Ramzi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/215
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish1" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/216
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish3" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/217
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish2" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/218
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish4" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/219
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish5" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/220
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish6" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/221
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish7" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/222
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish8" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/223
+#EXTINF:-1 tvg-id="" tvg-name="BoxEnglish9" tvg-logo="" group-title="MOVIES & BOX",BoxEnglish9
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/224
+#EXTINF:-1 tvg-id="" tvg-name="BoxTurkia1" tvg-logo="" group-title="MOVIES & BOX",BoxTurkia1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/225
+#EXTINF:-1 tvg-id="" tvg-name="BoxTurkia2" tvg-logo="" group-title="MOVIES & BOX",BoxTurkia2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/226
+#EXTINF:-1 tvg-id="" tvg-name="BoxTurkia3" tvg-logo="" group-title="MOVIES & BOX",BoxTurkia3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/227
+#EXTINF:-1 tvg-id="" tvg-name="BoxIndia1" tvg-logo="" group-title="MOVIES & BOX",BoxIndia1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/228
+#EXTINF:-1 tvg-id="" tvg-name="Boxindia2" tvg-logo="" group-title="MOVIES & BOX",Boxindia2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/229
+#EXTINF:-1 tvg-id="" tvg-name="BO:Boxindia3" tvg-logo="http://logo.ndasat.com/iptv/images/83442_canada.jpg" group-title="MOVIES & BOX",BO:Boxindia3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/230
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance2" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/231
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance3" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/232
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance4" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/233
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance5" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/234
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance6" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/235
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance7" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/236
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance1" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/237
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance8" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/238
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxFrance9" tvg-logo="" group-title="MOVIES & BOX",BO:BoxFrance9
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/239
+#EXTINF:-1 tvg-id="" tvg-name="++++++ OSN CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ OSN CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/240
+#EXTINF:-1 tvg-id="" tvg-name="Yahala Cinema" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Yahala Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/241
+#EXTINF:-1 tvg-id="" tvg-name="Yahala" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Yahala
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/242
+#EXTINF:-1 tvg-id="" tvg-name="Yahala First" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Yahala First
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/243
+#EXTINF:-1 tvg-id="" tvg-name="Star World" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Star World
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/244
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Star Movies
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/245
+#EXTINF:-1 tvg-id="" tvg-name="Movies Disney" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies Disney
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/246
+#EXTINF:-1 tvg-id="" tvg-name="POpup" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",POpup
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/247
+#EXTINF:-1 tvg-id="" tvg-name="OSN News" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",OSN News
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/248
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Paramount
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/249
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Syfy HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/250
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Disney
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/251
+#EXTINF:-1 tvg-id="" tvg-name="Movies Bing" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies Bing
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/252
+#EXTINF:-1 tvg-id="" tvg-name="Cinema2" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Cinema2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/253
+#EXTINF:-1 tvg-id="" tvg-name="Cinema1" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Cinema1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/254
+#EXTINF:-1 tvg-id="" tvg-name="Musalsalat" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Musalsalat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/255
+#EXTINF:-1 tvg-id="" tvg-name="Fann" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Fann
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/256
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Action +2" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",OSN Movies Action +2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/257
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",History
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/258
+#EXTINF:-1 tvg-id="" tvg-name="History2" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",History2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/259
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Discovery
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/260
+#EXTINF:-1 tvg-id="" tvg-name="Enigma" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Enigma
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/261
+#EXTINF:-1 tvg-id="" tvg-name="Movies Kids" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies Kids
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/262
+#EXTINF:-1 tvg-id="" tvg-name="Movies HD" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/263
+#EXTINF:-1 tvg-id="" tvg-name="Movies Comedy" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies Comedy
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/264
+#EXTINF:-1 tvg-id="" tvg-name="Series FIRST" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Series FIRST
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/265
+#EXTINF:-1 tvg-id="" tvg-name="Movies Action" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies Action
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/266
+#EXTINF:-1 tvg-id="" tvg-name="Movies First +2" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Movies First +2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/267
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sc HD" tvg-logo="https://a.top4top.io/p_2292jl0ni1.png" group-title="OSN CHANNELS",Discovery Sc HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/268
+#EXTINF:-1 tvg-id="" tvg-name="++++++ ISLAMIC CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ ISLAMIC CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/269
+#EXTINF:-1 tvg-id="" tvg-name="Qur-Al_Roqia" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="ISLAMIC CHANNELS",Qur-Al_Roqia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/270
+#EXTINF:-1 tvg-id="" tvg-name="Qur-Al_3ajmi" tvg-logo="" group-title="ISLAMIC CHANNELS",Qur-Al_3ajmi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/271
+#EXTINF:-1 tvg-id="" tvg-name="Qur-Haza3Blouchi" tvg-logo="" group-title="ISLAMIC CHANNELS",Qur-Haza3Blouchi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/272
+#EXTINF:-1 tvg-id="" tvg-name="Qur-MohamedElkantaoui" tvg-logo="" group-title="ISLAMIC CHANNELS",Qur-MohamedElkantaoui
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/273
+#EXTINF:-1 tvg-id="" tvg-name="Qur-Al_3ajami" tvg-logo="" group-title="ISLAMIC CHANNELS",Qur-Al_3ajami
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/274
+#EXTINF:-1 tvg-id="" tvg-name="Qur-Al_Ghamidi" tvg-logo="" group-title="ISLAMIC CHANNELS",Qur-Al_Ghamidi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/275
+#EXTINF:-1 tvg-id="" tvg-name="Al Fath" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Al Fath
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/276
+#EXTINF:-1 tvg-id="" tvg-name="Zad TV" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Zad TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/277
+#EXTINF:-1 tvg-id="" tvg-name="Yassir_Dousri" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Yassir_Dousri
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/278
+#EXTINF:-1 tvg-id="" tvg-name="AlIstiqama" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",AlIstiqama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/279
+#EXTINF:-1 tvg-id="" tvg-name="Kaifa" tvg-logo="http://logo.ndasat.com/iptv/images/58675_clock-128.png" group-title="ISLAMIC CHANNELS",Kaifa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/280
+#EXTINF:-1 tvg-id="" tvg-name="Nada Tv" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Nada Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/281
+#EXTINF:-1 tvg-id="" tvg-name="AL Insen TV" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",AL Insen TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/282
+#EXTINF:-1 tvg-id="" tvg-name="Al Ma3ali" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Al Ma3ali
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/283
+#EXTINF:-1 tvg-id="" tvg-name="Al Erth Nabawi" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Al Erth Nabawi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/284
+#EXTINF:-1 tvg-id="" tvg-name="Qesas_Alanbiaa" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Qesas_Alanbiaa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/285
+#EXTINF:-1 tvg-id="" tvg-name="Wesal" tvg-logo="http://logo.ndasat.com/iptv/images/15159_wsssl.gif" group-title="ISLAMIC CHANNELS",Wesal
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/286
+#EXTINF:-1 tvg-id="" tvg-name="Safa" tvg-logo="http://logo.ndasat.com/iptv/images/9974_safa.png" group-title="ISLAMIC CHANNELS",Safa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/287
+#EXTINF:-1 tvg-id="" tvg-name="Al Rahma" tvg-logo="http://logo.ndasat.com/iptv/images/23263_11923407_10153377589313891_261886348_n.jpg" group-title="ISLAMIC CHANNELS",Al Rahma
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/288
+#EXTINF:-1 tvg-id="" tvg-name="Essalam" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Essalam
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/289
+#EXTINF:-1 tvg-id="" tvg-name="Azhari TV" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Azhari TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/290
+#EXTINF:-1 tvg-id="" tvg-name="Al Nass" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Al Nass
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/291
+#EXTINF:-1 tvg-id="" tvg-name="Al Rissalah" tvg-logo="http://logo.ndasat.com/iptv/images/25214_727.png" group-title="ISLAMIC CHANNELS",Al Rissalah
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/292
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="http://logo.ndasat.com/iptv/images/5125_165.png" group-title="ISLAMIC CHANNELS",Iqraa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/293
+#EXTINF:-1 tvg-id="" tvg-name="Mekkah" tvg-logo="http://logo.ndasat.com/iptv/images/43853_alnass.jpg" group-title="ISLAMIC CHANNELS",Mekkah
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/294
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Quran" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Bahrain Quran
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/295
+#EXTINF:-1 tvg-id="" tvg-name="Ahl Al Quran" tvg-logo="http://logo.ndasat.com/iptv/images/79628_ahlalquran.jpg" group-title="ISLAMIC CHANNELS",Ahl Al Quran
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/296
+#EXTINF:-1 tvg-id="" tvg-name="AL Majd El3lmia" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",AL Majd El3lmia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/297
+#EXTINF:-1 tvg-id="" tvg-name="Almajd" tvg-logo="http://logo.ndasat.com/iptv/images/8749_57.png" group-title="ISLAMIC CHANNELS",Almajd
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/298
+#EXTINF:-1 tvg-id="" tvg-name="Majd Alhadith" tvg-logo="http://logo.ndasat.com/iptv/images/77560_clock-128.png" group-title="ISLAMIC CHANNELS",Majd Alhadith
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/299
+#EXTINF:-1 tvg-id="" tvg-name="Majd3 Coran" tvg-logo="http://logo.ndasat.com/iptv/images/37141_majd3.png" group-title="ISLAMIC CHANNELS",Majd3 Coran
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/300
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Hadith" tvg-logo="http://logo.ndasat.com/iptv/images/77658_t7pitvph9l8kthtrlpbr.jpeg" group-title="ISLAMIC CHANNELS",Saudia Hadith
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/301
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Quran" tvg-logo="http://logo.ndasat.com/iptv/images/41912_qurantv.jpg" group-title="ISLAMIC CHANNELS",Saudia Quran
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/302
+#EXTINF:-1 tvg-id="" tvg-name="Qisat_Alnihaya" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="ISLAMIC CHANNELS",Qisat_Alnihaya
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/303
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Quran HQ" tvg-logo="" group-title="ISLAMIC CHANNELS",Saudia Quran HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/304
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Sunnah HQ" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="ISLAMIC CHANNELS",Saudia Sunnah HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/305
+#EXTINF:-1 tvg-id="" tvg-name="Omrane_Full" tvg-logo="" group-title="ISLAMIC CHANNELS",Omrane_Full
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/306
+#EXTINF:-1 tvg-id="" tvg-name="Qalby_Etmaan_FULL" tvg-logo="" group-title="ISLAMIC CHANNELS",Qalby_Etmaan_FULL
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/307
+#EXTINF:-1 tvg-id="" tvg-name="Altaman" tvg-logo="" group-title="ISLAMIC CHANNELS",Altaman
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/308
+#EXTINF:-1 tvg-id="" tvg-name="Seen" tvg-logo="" group-title="ISLAMIC CHANNELS",Seen
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/309
+#EXTINF:-1 tvg-id="" tvg-name="++++++ ARABIC NEWS ++++++" tvg-logo="" group-title="Categories",++++++ ARABIC NEWS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/310
+#EXTINF:-1 tvg-id="" tvg-name="SkyNews" tvg-logo="" group-title="ARABIC NEWS",SkyNews
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/311
+#EXTINF:-1 tvg-id="" tvg-name="AlSharq_News" tvg-logo="http://logo.ndasat.com/iptv/images/68962_Al-Safwah-Orbit_o.jpg" group-title="ARABIC NEWS",AlSharq_News
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/312
+#EXTINF:-1 tvg-id="" tvg-name="Al_Araby" tvg-logo="http://logo.ndasat.com/iptv/images/81645_alaraby.jpg" group-title="ARABIC NEWS",Al_Araby
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/313
+#EXTINF:-1 tvg-id="" tvg-name="Al_Hiwar" tvg-logo="http://logo.ndasat.com/iptv/images/91112_alhiwar.jpg" group-title="ARABIC NEWS",Al_Hiwar
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/314
+#EXTINF:-1 tvg-id="" tvg-name="DW_Arabic" tvg-logo="http://logo.ndasat.com/iptv/images/71296_dwarabe.png" group-title="ARABIC NEWS",DW_Arabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/315
+#EXTINF:-1 tvg-id="" tvg-name="Al_Arabiya" tvg-logo="http://logo.ndasat.com/iptv/images/7211_53.png" group-title="ARABIC NEWS",Al_Arabiya
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/316
+#EXTINF:-1 tvg-id="" tvg-name="Arabiya_Hadath" tvg-logo="http://logo.ndasat.com/iptv/images/92452_11910685_10153377641613891_1794600393_n.jpg" group-title="ARABIC NEWS",Arabiya_Hadath
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/317
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="http://logo.ndasat.com/iptv/images/1788_142.png" group-title="ARABIC NEWS",Aljazeera
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/318
+#EXTINF:-1 tvg-id="" tvg-name="BBC_Arabic" tvg-logo="http://logo.ndasat.com/iptv/images/68548_11880797_10153377589203891_2027515287_n.jpg" group-title="ARABIC NEWS",BBC_Arabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/319
+#EXTINF:-1 tvg-id="" tvg-name="France24_Arabic" tvg-logo="http://logo.ndasat.com/iptv/images/7014_11923298_10153377589218891_1083639935_n.jpg" group-title="ARABIC NEWS",France24_Arabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/320
+#EXTINF:-1 tvg-id="" tvg-name="Russia_Alyaoum" tvg-logo="http://logo.ndasat.com/iptv/images/57466_11911008_10153377575288891_2135425199_n.jpg" group-title="ARABIC NEWS",Russia_Alyaoum
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/321
+#EXTINF:-1 tvg-id="" tvg-name="Jazeera_Mubasher" tvg-logo="http://logo.ndasat.com/iptv/images/69335_jscmubasher.jpg" group-title="ARABIC NEWS",Jazeera_Mubasher
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/322
+#EXTINF:-1 tvg-id="" tvg-name="Sky_News" tvg-logo="http://logo.ndasat.com/iptv/images/75627_skynewsarabia.jpg" group-title="ARABIC NEWS",Sky_News
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/323
+#EXTINF:-1 tvg-id="" tvg-name="News:Qanat9" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="ARABIC NEWS",News:Qanat9
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/324
+#EXTINF:-1 tvg-id="" tvg-name="News:TRT_Arabic" tvg-logo="http://logo.ndasat.com/iptv/images/545_trtarabia.jpg" group-title="ARABIC NEWS",News:TRT_Arabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/325
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Ekhbariya" tvg-logo="" group-title="ARABIC NEWS",Saudia Ekhbariya
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/326
+#EXTINF:-1 tvg-id="" tvg-name="ELSharq" tvg-logo="http://logo.ndasat.com/iptv/images/29456_el-sharq-tv-live-online-streaming.jpg" group-title="ARABIC NEWS",ELSharq
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/327
+#EXTINF:-1 tvg-id="" tvg-name="Mekameleen" tvg-logo="http://logo.ndasat.com/iptv/images/88857_mekamelen.png" group-title="ARABIC NEWS",Mekameleen
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/328
+#EXTINF:-1 tvg-id="" tvg-name="Ten" tvg-logo="http://logo.ndasat.com/iptv/images/15255_ten.png" group-title="ARABIC NEWS",Ten
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/329
+#EXTINF:-1 tvg-id="" tvg-name="AlMehwar" tvg-logo="http://logo.ndasat.com/iptv/images/92529_mehwar.jpg" group-title="ARABIC NEWS",AlMehwar
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/330
+#EXTINF:-1 tvg-id="" tvg-name="AlKaheraWalNass+2" tvg-logo="http://logo.ndasat.com/iptv/images/37274_kaherawanas2.jpg" group-title="ARABIC NEWS",AlKaheraWalNass+2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/331
+#EXTINF:-1 tvg-id="" tvg-name="AlKaheraWalNas" tvg-logo="http://logo.ndasat.com/iptv/images/51252_kaherawanas.jpg" group-title="ARABIC NEWS",AlKaheraWalNas
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/332
+#EXTINF:-1 tvg-id="" tvg-name="Dream" tvg-logo="http://logo.ndasat.com/iptv/images/43420_11931622_10153377589198891_1436552025_n.jpg" group-title="ARABIC NEWS",Dream
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/333
+#EXTINF:-1 tvg-id="" tvg-name="Sada Al Balad Drama" tvg-logo="http://logo.ndasat.com/iptv/images/94705_sadaelbaladdrama.jpg" group-title="ARABIC NEWS",Sada Al Balad Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/334
+#EXTINF:-1 tvg-id="" tvg-name="SadaAlBalad" tvg-logo="http://logo.ndasat.com/iptv/images/33525_11874172_10153377575273891_148909555_n.jpg" group-title="ARABIC NEWS",SadaAlBalad
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/335
+#EXTINF:-1 tvg-id="" tvg-name="Nat_Geo_AD" tvg-logo="http://logo.ndasat.com/iptv/images/87951_75.png" group-title="ARABIC NEWS",Nat_Geo_AD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/336
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera_Doc" tvg-logo="http://logo.ndasat.com/iptv/images/1437_jscdoc.png" group-title="ARABIC NEWS",Aljazeera_Doc
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/337
+#EXTINF:-1 tvg-id="" tvg-name="++++++ MBC CHANNELS++++++" tvg-logo="" group-title="Categories",++++++ MBC CHANNELS++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/338
+#EXTINF:-1 tvg-id="" tvg-name="MBC1-HQ" tvg-logo="http://fauconteam.com//logo//mbc1.png" group-title="MBC CHANNELS",MBC1-HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/339
+#EXTINF:-1 tvg-id="" tvg-name="MBC2_HQ" tvg-logo="http://fauconteam.com//logo//mbc2.png" group-title="MBC CHANNELS",MBC2_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/340
+#EXTINF:-1 tvg-id="" tvg-name="MBC3_HQ" tvg-logo="http://fauconteam.com//logo//mbc3.png" group-title="MBC CHANNELS",MBC3_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/341
+#EXTINF:-1 tvg-id="" tvg-name="MBC4_HQ" tvg-logo="http://fauconteam.com//logo//mbc4.png" group-title="MBC CHANNELS",MBC4_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/342
+#EXTINF:-1 tvg-id="" tvg-name="MBC5_HQ" tvg-logo="http://fauconteam.com//logo//MBC-5.jpeg" group-title="MBC CHANNELS",MBC5_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/343
+#EXTINF:-1 tvg-id="" tvg-name="MBC_Iraq_HQ" tvg-logo="http://fauconteam.com//logo//MBC-IRAQ.png" group-title="MBC CHANNELS",MBC_Iraq_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/344
+#EXTINF:-1 tvg-id="" tvg-name="MBC_Masr_HQ" tvg-logo="http://fauconteam.com//logo//mbcmasr.png" group-title="MBC CHANNELS",MBC_Masr_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/345
+#EXTINF:-1 tvg-id="" tvg-name="MBC _Masr2_HQ" tvg-logo="http://fauconteam.com//logo//mbcmasr2.png" group-title="MBC CHANNELS",MBC _Masr2_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/346
+#EXTINF:-1 tvg-id="" tvg-name="MBC _Bollywood_HQ" tvg-logo="http://fauconteam.com//logo//mbcbollywood.png" group-title="MBC CHANNELS",MBC _Bollywood_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/347
+#EXTINF:-1 tvg-id="" tvg-name="MBC _Drama_HQ" tvg-logo="http://fauconteam.com//logo//mbcdrama.png" group-title="MBC CHANNELS",MBC _Drama_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/348
+#EXTINF:-1 tvg-id="" tvg-name="MBC _Max_HQ" tvg-logo="http://fauconteam.com//logo//mbcmax.png" group-title="MBC CHANNELS",MBC _Max_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/349
+#EXTINF:-1 tvg-id="" tvg-name="MBC _Action_HQ" tvg-logo="http://fauconteam.com//logo//mbcaction.png" group-title="MBC CHANNELS",MBC _Action_HQ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/350
+#EXTINF:-1 tvg-id="" tvg-name="MBC1_HD" tvg-logo="http://fauconteam.com//logo//mbc1.png" group-title="MBC CHANNELS",MBC1_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/351
+#EXTINF:-1 tvg-id="" tvg-name="MBC2-HD" tvg-logo="http://fauconteam.com//logo//mbc2.png" group-title="MBC CHANNELS",MBC2-HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/352
+#EXTINF:-1 tvg-id="" tvg-name="MBC3-HD" tvg-logo="http://fauconteam.com//logo//mbc3.png" group-title="MBC CHANNELS",MBC3-HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/353
+#EXTINF:-1 tvg-id="" tvg-name="MBC4-HD" tvg-logo="http://fauconteam.com//logo//mbc4.png" group-title="MBC CHANNELS",MBC4-HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/354
+#EXTINF:-1 tvg-id="" tvg-name="MBC5_HD" tvg-logo="http://fauconteam.com//logo//MBC-5.jpeg" group-title="MBC CHANNELS",MBC5_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/355
+#EXTINF:-1 tvg-id="" tvg-name="MBC_Iraq_HD" tvg-logo="http://fauconteam.com//logo//MBC-IRAQ.png" group-title="MBC CHANNELS",MBC_Iraq_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/356
+#EXTINF:-1 tvg-id="" tvg-name="MBC-Max HD" tvg-logo="http://fauconteam.com//logo//mbcmax.png" group-title="MBC CHANNELS",MBC-Max HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/357
+#EXTINF:-1 tvg-id="" tvg-name="MBC+Drama" tvg-logo="http://fauconteam.com//logo//MBC-DRAMA-PLUS.jpg" group-title="MBC CHANNELS",MBC+Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/358
+#EXTINF:-1 tvg-id="" tvg-name="MBC-Drama HD" tvg-logo="http://fauconteam.com//logo//mbcdrama.png" group-title="MBC CHANNELS",MBC-Drama HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/359
+#EXTINF:-1 tvg-id="" tvg-name="MBC-Action HD" tvg-logo="http://fauconteam.com//logo//mbcaction.png" group-title="MBC CHANNELS",MBC-Action HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/360
+#EXTINF:-1 tvg-id="" tvg-name="MBC_Bollywood_HD" tvg-logo="http://fauconteam.com//logo//mbcbollywood.png" group-title="MBC CHANNELS",MBC_Bollywood_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/361
+#EXTINF:-1 tvg-id="" tvg-name="MBC-Variety HD" tvg-logo="http://fauconteam.com//logo//MBC-VARIETY-HD.jpg" group-title="MBC CHANNELS",MBC-Variety HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/362
+#EXTINF:-1 tvg-id="" tvg-name="MBC_FM" tvg-logo="http://fauconteam.com//logo//MBC--FM.png" group-title="MBC CHANNELS",MBC_FM
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/363
+#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan" tvg-logo="http://logo.ndasat.com/iptv/images/62749_48.png" group-title="MBC CHANNELS",Zee Alwan
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/364
+#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam" tvg-logo="http://logo.ndasat.com/iptv/images/49154_74.png" group-title="MBC CHANNELS",Zee Aflam
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/365
+#EXTINF:-1 tvg-id="" tvg-name="B4U Aflam" tvg-logo="http://logo.ndasat.com/iptv/images/69576_768.png" group-title="MBC CHANNELS",B4U Aflam
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/366
+#EXTINF:-1 tvg-id="" tvg-name="B4U plus" tvg-logo="" group-title="MBC CHANNELS",B4U plus
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/367
+#EXTINF:-1 tvg-id="" tvg-name="++++++ ART CHANNELS++++++" tvg-logo="" group-title="Categories",++++++ ART CHANNELS++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/368
+#EXTINF:-1 tvg-id="" tvg-name="Art Aflam 1" tvg-logo="http://logo.ndasat.com/iptv/images/64367_41.png" group-title="ART CHANNELS",Art Aflam 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/369
+#EXTINF:-1 tvg-id="" tvg-name="Art Aflam 2" tvg-logo="http://logo.ndasat.com/iptv/images/63026_40.png" group-title="ART CHANNELS",Art Aflam 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/370
+#EXTINF:-1 tvg-id="" tvg-name="Art_Cinema" tvg-logo="http://logo.ndasat.com/iptv/images/44258_602.png" group-title="ART CHANNELS",Art_Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/371
+#EXTINF:-1 tvg-id="" tvg-name="Art_Hekayat1" tvg-logo="http://logo.ndasat.com/iptv/images/98344_11912964_10153377589073891_261799786_n.jpg" group-title="ART CHANNELS",Art_Hekayat1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/372
+#EXTINF:-1 tvg-id="" tvg-name="Art_Hekayat2" tvg-logo="http://logo.ndasat.com/iptv/images/91865_11920463_10153377589253891_825597118_n.jpg" group-title="ART CHANNELS",Art_Hekayat2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/373
+#EXTINF:-1 tvg-id="" tvg-name="++++++ ROTANA CHANNELS++++++" tvg-logo="" group-title="Categories",++++++ ROTANA CHANNELS++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/374
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_Music_HD" tvg-logo="http://logo.ndasat.com/iptv/images/65133_myhd.jpg" group-title="ROTANA CHANNELS",Rotana_Music_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/375
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_Drama_HD" tvg-logo="http://logo.ndasat.com/iptv/images/39464_myhd.jpg" group-title="ROTANA CHANNELS",Rotana_Drama_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/376
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_Khaliji_HD" tvg-logo="http://logo.ndasat.com/iptv/images/23679_myhd.jpg" group-title="ROTANA CHANNELS",Rotana_Khaliji_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/377
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_Classic_HD" tvg-logo="http://logo.ndasat.com/iptv/images/97421_myhd.jpg" group-title="ROTANA CHANNELS",Rotana_Classic_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/378
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_Cinema_KSA" tvg-logo="http://logo.ndasat.com/iptv/images/43128_myhd.jpg" group-title="ROTANA CHANNELS",Rotana_Cinema_KSA
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/379
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_Comedy_HD" tvg-logo="http://logo.ndasat.com/iptv/images/46101_myhd.jpg" group-title="ROTANA CHANNELS",Rotana_Comedy_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/380
+#EXTINF:-1 tvg-id="" tvg-name="++++++ PALESTINE CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ PALESTINE CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/381
+#EXTINF:-1 tvg-id="" tvg-name="Pal-Palestine Sport" tvg-logo="http://logo.ndasat.com/iptv/images/23851_palestinesport.jpg" group-title="PALESTINE CHANNELS",Pal-Palestine Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/382
+#EXTINF:-1 tvg-id="" tvg-name="Pal-Alquds alyaoum" tvg-logo="http://logo.ndasat.com/iptv/images/9726_quds.jpg" group-title="PALESTINE CHANNELS",Pal-Alquds alyaoum
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/383
+#EXTINF:-1 tvg-id="" tvg-name="Pal-Alaqsa" tvg-logo="http://logo.ndasat.com/iptv/images/1380_aqsa.jpg" group-title="PALESTINE CHANNELS",Pal-Alaqsa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/384
+#EXTINF:-1 tvg-id="" tvg-name="Palestine Today" tvg-logo="http://logo.ndasat.com/iptv/images/69831_palestintoday.jpg" group-title="PALESTINE CHANNELS",Palestine Today
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/385
+#EXTINF:-1 tvg-id="" tvg-name="Palestine" tvg-logo="http://logo.ndasat.com/iptv/images/88502_palestine.png" group-title="PALESTINE CHANNELS",Palestine
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/386
+#EXTINF:-1 tvg-id="" tvg-name="Palestine live" tvg-logo="http://logo.ndasat.com/iptv/images/67723_palestinelive.jpg" group-title="PALESTINE CHANNELS",Palestine live
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/387
+#EXTINF:-1 tvg-id="" tvg-name="Pal-Hebron_sat" tvg-logo="http://logo.ndasat.com/iptv/images/44537_falestinia.jpg" group-title="PALESTINE CHANNELS",Pal-Hebron_sat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/388
+#EXTINF:-1 tvg-id="" tvg-name="Pal-AL Kofiya" tvg-logo="http://logo.ndasat.com/iptv/images/55656_honaelquds.jpg" group-title="PALESTINE CHANNELS",Pal-AL Kofiya
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/389
+#EXTINF:-1 tvg-id="" tvg-name="Pal-Ma an" tvg-logo="http://logo.ndasat.com/iptv/images/20669_maan.jpg" group-title="PALESTINE CHANNELS",Pal-Ma an
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/390
+#EXTINF:-1 tvg-id="" tvg-name="++++++ EGYPTE CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ EGYPTE CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/391
+#EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="http://logo.ndasat.com/iptv/images/63473_cima.jpg" group-title="EGYPTE CHANNELS",Cima
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/392
+#EXTINF:-1 tvg-id="" tvg-name="AL Hadath alyaoum" tvg-logo="http://logo.ndasat.com/iptv/images/22681_mogacome.png" group-title="EGYPTE CHANNELS",AL Hadath alyaoum
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/393
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Pro" tvg-logo="http://logo.ndasat.com/iptv/images/90755_cinemapro.jpg" group-title="EGYPTE CHANNELS",Cinema Pro
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/394
+#EXTINF:-1 tvg-id="" tvg-name="Toktok Aflam" tvg-logo="http://logo.ndasat.com/iptv/images/54218_toktok.jpg" group-title="EGYPTE CHANNELS",Toktok Aflam
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/395
+#EXTINF:-1 tvg-id="" tvg-name="Nile Family" tvg-logo="http://logo.ndasat.com/iptv/images/64856_time.jpg" group-title="EGYPTE CHANNELS",Nile Family
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/396
+#EXTINF:-1 tvg-id="" tvg-name="Apple Aflam" tvg-logo="http://logo.ndasat.com/iptv/images/10356_11913304_10153377589193891_1361754150_n.jpg" group-title="EGYPTE CHANNELS",Apple Aflam
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/397
+#EXTINF:-1 tvg-id="" tvg-name="Apple Cinema" tvg-logo="http://logo.ndasat.com/iptv/images/8996_11897188_10153377589258891_692809780_n.jpg" group-title="EGYPTE CHANNELS",Apple Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/398
+#EXTINF:-1 tvg-id="" tvg-name="Nile TV" tvg-logo="http://logo.ndasat.com/iptv/images/54780_181.png" group-title="EGYPTE CHANNELS",Nile TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/399
+#EXTINF:-1 tvg-id="" tvg-name="Nile Life" tvg-logo="http://logo.ndasat.com/iptv/images/74587_781.png" group-title="EGYPTE CHANNELS",Nile Life
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/400
+#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="http://logo.ndasat.com/iptv/images/60997_69.png" group-title="EGYPTE CHANNELS",Nile Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/401
+#EXTINF:-1 tvg-id="" tvg-name="Nile Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/45040_68.png" group-title="EGYPTE CHANNELS",Nile Comedy
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/402
+#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="http://logo.ndasat.com/iptv/images/28937_180.png" group-title="EGYPTE CHANNELS",Nile Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/403
+#EXTINF:-1 tvg-id="" tvg-name="Panorama Food" tvg-logo="http://logo.ndasat.com/iptv/images/81520_panoramafood.jpg" group-title="EGYPTE CHANNELS",Panorama Food
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/404
+#EXTINF:-1 tvg-id="" tvg-name="PanoramaDrama2" tvg-logo="http://logo.ndasat.com/iptv/images/25283_pdrama2.jpg" group-title="EGYPTE CHANNELS",PanoramaDrama2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/405
+#EXTINF:-1 tvg-id="" tvg-name="PanoramaDrama" tvg-logo="http://logo.ndasat.com/iptv/images/73302_pdrama1.jpg" group-title="EGYPTE CHANNELS",PanoramaDrama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/406
+#EXTINF:-1 tvg-id="" tvg-name="Panorama Film" tvg-logo="http://logo.ndasat.com/iptv/images/98469_panoramafilm.jpg" group-title="EGYPTE CHANNELS",Panorama Film
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/407
+#EXTINF:-1 tvg-id="" tvg-name="Family Drama" tvg-logo="http://logo.ndasat.com/iptv/images/72742_naharcinema.jpg" group-title="EGYPTE CHANNELS",Family Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/408
+#EXTINF:-1 tvg-id="" tvg-name="AlNaharDrama" tvg-logo="http://logo.ndasat.com/iptv/images/99044_nahardrama.jpg" group-title="EGYPTE CHANNELS",AlNaharDrama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/409
+#EXTINF:-1 tvg-id="" tvg-name="Alnahar" tvg-logo="http://logo.ndasat.com/iptv/images/2957_11911874_10153377589328891_1152920868_n.jpg" group-title="EGYPTE CHANNELS",Alnahar
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/410
+#EXTINF:-1 tvg-id="" tvg-name="Alhayat Drama" tvg-logo="http://logo.ndasat.com/iptv/images/31701_hayatmusalsalat.jpg" group-title="EGYPTE CHANNELS",Alhayat Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/411
+#EXTINF:-1 tvg-id="" tvg-name="ALHayat" tvg-logo="http://logo.ndasat.com/iptv/images/87234_11880075_10153377589053891_1534865711_n.jpg" group-title="EGYPTE CHANNELS",ALHayat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/412
+#EXTINF:-1 tvg-id="" tvg-name="ON Sports" tvg-logo="http://logo.ndasat.com/iptv/images/93427_onsport.jpg" group-title="EGYPTE CHANNELS",ON Sports
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/413
+#EXTINF:-1 tvg-id="" tvg-name="ON Drama" tvg-logo="http://logo.ndasat.com/iptv/images/69436_alfajer.jpg" group-title="EGYPTE CHANNELS",ON Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/414
+#EXTINF:-1 tvg-id="" tvg-name="ON E" tvg-logo="http://logo.ndasat.com/iptv/images/49129_naharyaoum.png" group-title="EGYPTE CHANNELS",ON E
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/415
+#EXTINF:-1 tvg-id="" tvg-name="Dmc-Drama" tvg-logo="http://logo.ndasat.com/iptv/images/33746_dmcdrama.jpg" group-title="EGYPTE CHANNELS",Dmc-Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/416
+#EXTINF:-1 tvg-id="" tvg-name="Dmc" tvg-logo="http://logo.ndasat.com/iptv/images/3210_dmc.jpg" group-title="EGYPTE CHANNELS",Dmc
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/417
+#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="http://logo.ndasat.com/iptv/images/33415_760.png" group-title="EGYPTE CHANNELS",CBC Sofra
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/418
+#EXTINF:-1 tvg-id="" tvg-name="CBC Extra e" tvg-logo="http://logo.ndasat.com/iptv/images/59628_767.png" group-title="EGYPTE CHANNELS",CBC Extra e
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/419
+#EXTINF:-1 tvg-id="" tvg-name="CBC Drama" tvg-logo="http://logo.ndasat.com/iptv/images/14889_22.png" group-title="EGYPTE CHANNELS",CBC Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/420
+#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="http://logo.ndasat.com/iptv/images/80242_23.png" group-title="EGYPTE CHANNELS",CBC
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/421
+#EXTINF:-1 tvg-id="" tvg-name="AlThaniya" tvg-logo="http://logo.ndasat.com/iptv/images/19098_masriya2.png" group-title="EGYPTE CHANNELS",AlThaniya
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/422
+#EXTINF:-1 tvg-id="" tvg-name="Al Masriyah" tvg-logo="http://logo.ndasat.com/iptv/images/99923_masriya1.jpg" group-title="EGYPTE CHANNELS",Al Masriyah
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/423
+#EXTINF:-1 tvg-id="" tvg-name="Apple Hekayat" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="EGYPTE CHANNELS",Apple Hekayat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/424
+#EXTINF:-1 tvg-id="" tvg-name="Apple Alyaoum" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="EGYPTE CHANNELS",Apple Alyaoum
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/425
+#EXTINF:-1 tvg-id="" tvg-name="Apple Mosalsalat" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="EGYPTE CHANNELS",Apple Mosalsalat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/426
+#EXTINF:-1 tvg-id="" tvg-name="++++++ TUNISIE CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ TUNISIE CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/427
+#EXTINF:-1 tvg-id="" tvg-name="Almustakila" tvg-logo="http://logo.ndasat.com/iptv/images/48061_almostakila.jpg" group-title="TUNISIE CHANNELS",Almustakila
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/428
+#EXTINF:-1 tvg-id="" tvg-name="Carthage Tunis" tvg-logo="http://logo.ndasat.com/iptv/images/28368_hidaya.jpg" group-title="TUNISIE CHANNELS",Carthage Tunis
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/429
+#EXTINF:-1 tvg-id="" tvg-name="Zaytoona" tvg-logo="http://logo.ndasat.com/iptv/images/19601_ar-icone.png" group-title="TUNISIE CHANNELS",Zaytoona
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/430
+#EXTINF:-1 tvg-id="" tvg-name="Telvza" tvg-logo="http://logo.ndasat.com/iptv/images/88266_telvza.jpg" group-title="TUNISIE CHANNELS",Telvza
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/431
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal Tv" tvg-logo="http://logo.ndasat.com/iptv/images/28822_6.png" group-title="TUNISIE CHANNELS",Hannibal Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/432
+#EXTINF:-1 tvg-id="" tvg-name="Nessma" tvg-logo="http://logo.ndasat.com/iptv/images/35656_5.png" group-title="TUNISIE CHANNELS",Nessma
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/433
+#EXTINF:-1 tvg-id="" tvg-name="Attasia" tvg-logo="http://logo.ndasat.com/iptv/images/11846_attasia.jpg" group-title="TUNISIE CHANNELS",Attasia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/434
+#EXTINF:-1 tvg-id="" tvg-name="El Djanoubia" tvg-logo="http://logo.ndasat.com/iptv/images/66074_7.png" group-title="TUNISIE CHANNELS",El Djanoubia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/435
+#EXTINF:-1 tvg-id="" tvg-name="Tounesna" tvg-logo="http://logo.ndasat.com/iptv/images/74929_8.png" group-title="TUNISIE CHANNELS",Tounesna
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/436
+#EXTINF:-1 tvg-id="" tvg-name="El Hiwar Tounsi" tvg-logo="http://logo.ndasat.com/iptv/images/93339_hiwartounsi.jpg" group-title="TUNISIE CHANNELS",El Hiwar Tounsi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/437
+#EXTINF:-1 tvg-id="" tvg-name="National 1" tvg-logo="http://logo.ndasat.com/iptv/images/89568_1.png" group-title="TUNISIE CHANNELS",National 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/438
+#EXTINF:-1 tvg-id="" tvg-name="National 2" tvg-logo="http://logo.ndasat.com/iptv/images/83537_2.png" group-title="TUNISIE CHANNELS",National 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/439
+#EXTINF:-1 tvg-id="" tvg-name="++++++ ALGERIA CHANNELS++++++" tvg-logo="" group-title="Categories",++++++ ALGERIA CHANNELS++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/440
+#EXTINF:-1 tvg-id="" tvg-name="Ennahar Algerie" tvg-logo="http://logo.ndasat.com/iptv/images/57240_ennaharalgerie.jpg" group-title="ALGERIA CHANNELS",Ennahar Algerie
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/441
+#EXTINF:-1 tvg-id="" tvg-name="ECHOROKTV NEWS" tvg-logo="http://logo.ndasat.com/iptv/images/21459_logo-chourouk.png" group-title="ALGERIA CHANNELS",ECHOROKTV NEWS
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/442
+#EXTINF:-1 tvg-id="" tvg-name="Echorouk Tv" tvg-logo="http://logo.ndasat.com/iptv/images/20943_754.png" group-title="ALGERIA CHANNELS",Echorouk Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/443
+#EXTINF:-1 tvg-id="" tvg-name="El Bilad News dz" tvg-logo="http://logo.ndasat.com/iptv/images/49301_biladnews.jpg" group-title="ALGERIA CHANNELS",El Bilad News dz
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/444
+#EXTINF:-1 tvg-id="" tvg-name="Almagharibia" tvg-logo="" group-title="ALGERIA CHANNELS",Almagharibia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/445
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 1" tvg-logo="http://logo.ndasat.com/iptv/images/86905_algerie.jpg" group-title="ALGERIA CHANNELS",Algerie 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/446
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 2" tvg-logo="" group-title="ALGERIA CHANNELS",Algerie 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/447
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 3" tvg-logo="http://logo.ndasat.com/iptv/images/18351_alg3.png" group-title="ALGERIA CHANNELS",Algerie 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/448
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 4" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="ALGERIA CHANNELS",Algerie 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/449
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 5" tvg-logo="http://logo.ndasat.com/iptv/images/24088_entv_5_95x92.gif" group-title="ALGERIA CHANNELS",Algerie 5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/450
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 6" tvg-logo="" group-title="ALGERIA CHANNELS",Algerie 6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/451
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 7" tvg-logo="" group-title="ALGERIA CHANNELS",Algerie 7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/452
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 8" tvg-logo="" group-title="ALGERIA CHANNELS",Algerie 8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/453
+#EXTINF:-1 tvg-id="" tvg-name="N1 Dzair" tvg-logo="" group-title="ALGERIA CHANNELS",N1 Dzair
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/454
+#EXTINF:-1 tvg-id="" tvg-name="Berbere TV" tvg-logo="http://logo.ndasat.com/iptv/images/96635_308_medium.png" group-title="ALGERIA CHANNELS",Berbere TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/455
+#EXTINF:-1 tvg-id="" tvg-name="Awras" tvg-logo="http://logo.ndasat.com/iptv/images/10591_almagharibiya.jpg" group-title="ALGERIA CHANNELS",Awras
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/456
+#EXTINF:-1 tvg-id="" tvg-name="Al Hayat" tvg-logo="" group-title="ALGERIA CHANNELS",Al Hayat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/457
+#EXTINF:-1 tvg-id="" tvg-name="Al Adjwaa" tvg-logo="http://logo.ndasat.com/iptv/images/97464_ajwaa.jpg" group-title="ALGERIA CHANNELS",Al Adjwaa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/458
+#EXTINF:-1 tvg-id="" tvg-name="Bahia Tv" tvg-logo="http://logo.ndasat.com/iptv/images/82610_bahia.png" group-title="ALGERIA CHANNELS",Bahia Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/459
+#EXTINF:-1 tvg-id="" tvg-name="Beur Tv" tvg-logo="http://logo.ndasat.com/iptv/images/12229_beur.png" group-title="ALGERIA CHANNELS",Beur Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/460
+#EXTINF:-1 tvg-id="" tvg-name="El Djazaria Tv" tvg-logo="http://logo.ndasat.com/iptv/images/11780_496.png" group-title="ALGERIA CHANNELS",El Djazaria Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/461
+#EXTINF:-1 tvg-id="" tvg-name="Al Badil" tvg-logo="http://logo.ndasat.com/iptv/images/31877_157.png" group-title="ALGERIA CHANNELS",Al Badil
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/462
+#EXTINF:-1 tvg-id="" tvg-name="Samira Tv" tvg-logo="http://logo.ndasat.com/iptv/images/4870_samira.jpg" group-title="ALGERIA CHANNELS",Samira Tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/463
+#EXTINF:-1 tvg-id="" tvg-name="AL HADDAF TV" tvg-logo="http://logo.ndasat.com/iptv/images/13070_191.png" group-title="ALGERIA CHANNELS",AL HADDAF TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/464
+#EXTINF:-1 tvg-id="" tvg-name="++++++ MAROC CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ MAROC CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/465
+#EXTINF:-1 tvg-id="" tvg-name="2M Maroc" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="MAROC CHANNELS",2M Maroc
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/466
+#EXTINF:-1 tvg-id="" tvg-name="2M TNT" tvg-logo="https://www.lyngsat.com/logo/tv/num/2m_monde.png" group-title="MAROC CHANNELS",2M TNT
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/467
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm.png" group-title="MAROC CHANNELS",Al Aoula
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/468
+#EXTINF:-1 tvg-id="" tvg-name="Laayoune TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_1_laayoune.png" group-title="MAROC CHANNELS",Laayoune TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/469
+#EXTINF:-1 tvg-id="" tvg-name="Aflam TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_7_aflam_tv.png" group-title="MAROC CHANNELS",Aflam TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/470
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_5_almaghribya.png" group-title="MAROC CHANNELS",Al Maghribia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/471
+#EXTINF:-1 tvg-id="" tvg-name="Athaqafia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_4_athaqafia.png" group-title="MAROC CHANNELS",Athaqafia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/472
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="MAROC CHANNELS",Arryadia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/473
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_3_arriadya.png" group-title="MAROC CHANNELS",Arryadia Live
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/474
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_6_assadissa.png" group-title="MAROC CHANNELS",Assadissa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/475
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight" tvg-logo="https://www.lyngsat.com/logo/tv/ss/snrt_8_tamazight.png" group-title="MAROC CHANNELS",Tamazight
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/476
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="MAROC CHANNELS",Medi 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/477
+#EXTINF:-1 tvg-id="" tvg-name="M24" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m24-ma.png" group-title="MAROC CHANNELS",M24
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/478
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_maroc_es.png" group-title="MAROC CHANNELS",Tele Maroc
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/479
+#EXTINF:-1 tvg-id="" tvg-name="Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="MAROC CHANNELS",Chada TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/480
+#EXTINF:-1 tvg-id="" tvg-name="Canal Atlas" tvg-logo="http://fauconteam.com//logo//canalatlas.jpg" group-title="MAROC CHANNELS",Canal Atlas
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/481
+#EXTINF:-1 tvg-id="" tvg-name="Dhak_3la_Rasek" tvg-logo="" group-title="MAROC CHANNELS",Dhak_3la_Rasek
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/482
+#EXTINF:-1 tvg-id="" tvg-name="Beau Maroc" tvg-logo="" group-title="MAROC CHANNELS",Beau Maroc
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/483
+#EXTINF:-1 tvg-id="" tvg-name="Tendance" tvg-logo="http://logo.ndasat.com/iptv/images/6516_images.png" group-title="MAROC CHANNELS",Tendance
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/484
+#EXTINF:-1 tvg-id="" tvg-name="Al Onse" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_ons_tv_ma.png" group-title="MAROC CHANNELS",Al Onse
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/485
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 Maghreb" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="MAROC CHANNELS",Medi 1 Maghreb
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/486
+#EXTINF:-1 tvg-id="" tvg-name="Maroc Adkar" tvg-logo="" group-title="MAROC CHANNELS",Maroc Adkar
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/487
+#EXTINF:-1 tvg-id="" tvg-name="++++++ SYRIA CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ SYRIA CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/488
+#EXTINF:-1 tvg-id="" tvg-name="Lana TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/ltv-lb.png" group-title="SYRIA CHANNELS",Lana TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/489
+#EXTINF:-1 tvg-id="" tvg-name="Syria Drama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syria-drama-sy.png" group-title="SYRIA CHANNELS",Syria Drama
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/490
+#EXTINF:-1 tvg-id="" tvg-name="Drama Alwan" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-alwan.png" group-title="SYRIA CHANNELS",Drama Alwan
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/491
+#EXTINF:-1 tvg-id="" tvg-name="SamaTv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sama-tv-sy.png" group-title="SYRIA CHANNELS",SamaTv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/492
+#EXTINF:-1 tvg-id="" tvg-name="SYRIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syrian-satellite-channel-sy.png" group-title="SYRIA CHANNELS",SYRIA
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/493
+#EXTINF:-1 tvg-id="" tvg-name="Souriya" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.png" group-title="SYRIA CHANNELS",Souriya
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/494
+#EXTINF:-1 tvg-id="" tvg-name="Syria Alyaoum" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alyaum-channel-sy.png" group-title="SYRIA CHANNELS",Syria Alyaoum
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/495
+#EXTINF:-1 tvg-id="" tvg-name="Syria Alalam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alalam-news-channel-syria-ir-sy.png" group-title="SYRIA CHANNELS",Syria Alalam
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/496
+#EXTINF:-1 tvg-id="" tvg-name="Syria-Marah" tvg-logo="http://mrfm.ps/assets/images/Group%2025@2x.png" group-title="SYRIA CHANNELS",Syria-Marah
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/497
+#EXTINF:-1 tvg-id="" tvg-name="Syria Education" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syrian-educational-tv-sy.png" group-title="SYRIA CHANNELS",Syria Education
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/498
+#EXTINF:-1 tvg-id="" tvg-name="Syria-AlEkhbaria" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alikhbaria-syria-sy.png" group-title="SYRIA CHANNELS",Syria-AlEkhbaria
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/499
+#EXTINF:-1 tvg-id="" tvg-name="SY:Halab Today" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halab-today-tv-sy.png" group-title="SYRIA CHANNELS",SY:Halab Today
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/500
+#EXTINF:-1 tvg-id="" tvg-name="RS:Arena Sport3" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Arena Sport3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/612
+#EXTINF:-1 tvg-id="" tvg-name="RS:Arena Sport4" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Arena Sport4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/613
+#EXTINF:-1 tvg-id="" tvg-name="RS:Sport Klub1" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Sport Klub1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/614
+#EXTINF:-1 tvg-id="" tvg-name="RS:Sport Klub2" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Sport Klub2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/615
+#EXTINF:-1 tvg-id="" tvg-name="RS:Sport Klub3" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Sport Klub3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/616
+#EXTINF:-1 tvg-id="" tvg-name="RS:Sport Klub4" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Sport Klub4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/617
+#EXTINF:-1 tvg-id="" tvg-name="RS:Sport Klub5" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Sport Klub5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/618
+#EXTINF:-1 tvg-id="" tvg-name="AL:Super Sport1" tvg-logo="http://logo.ndasat.com/iptv/images/11368_supersport1.png" group-title="SPORT WORLD CHANNELS",AL:Super Sport1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/619
+#EXTINF:-1 tvg-id="" tvg-name="AL:Super Sport2" tvg-logo="http://logo.ndasat.com/iptv/images/86428_supersport2.png" group-title="SPORT WORLD CHANNELS",AL:Super Sport2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/620
+#EXTINF:-1 tvg-id="" tvg-name="AL:Super Sport3" tvg-logo="http://logo.ndasat.com/iptv/images/60900_supersport3.png" group-title="SPORT WORLD CHANNELS",AL:Super Sport3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/621
+#EXTINF:-1 tvg-id="" tvg-name="AL:Super Sport4" tvg-logo="http://logo.ndasat.com/iptv/images/62166_supersport4.png" group-title="SPORT WORLD CHANNELS",AL:Super Sport4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/622
+#EXTINF:-1 tvg-id="" tvg-name="AL:Super Sport5" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",AL:Super Sport5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/623
+#EXTINF:-1 tvg-id="" tvg-name="AL:Super Sport1 Kosova" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",AL:Super Sport1 Kosova
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/624
+#EXTINF:-1 tvg-id="" tvg-name="(AL) Tring Sport News HD" tvg-logo="" group-title="SPORT WORLD CHANNELS",(AL) Tring Sport News HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/625
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Sport 1 HD" tvg-logo="" group-title="SPORT WORLD CHANNELS",AL:Tring Sport 1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/626
+#EXTINF:-1 tvg-id="" tvg-name="Al: Tring Sport 2 HD" tvg-logo="" group-title="SPORT WORLD CHANNELS",Al: Tring Sport 2 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/627
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Sport 3 HD" tvg-logo="" group-title="SPORT WORLD CHANNELS",AL:Tring Sport 3 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/628
+#EXTINF:-1 tvg-id="" tvg-name="Al:Tring Sport 4 HD" tvg-logo="" group-title="SPORT WORLD CHANNELS",Al:Tring Sport 4 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/629
+#EXTINF:-1 tvg-id="" tvg-name="PL:Canal Sport" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="SPORT WORLD CHANNELS",PL:Canal Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/630
+#EXTINF:-1 tvg-id="" tvg-name="PL:Canal+ 2 Sport" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="SPORT WORLD CHANNELS",PL:Canal+ 2 Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/631
+#EXTINF:-1 tvg-id="" tvg-name="SLO:SPORTKLUB 3 HD" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",SLO:SPORTKLUB 3 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/632
+#EXTINF:-1 tvg-id="" tvg-name="SLO:SPORTKLUB 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",SLO:SPORTKLUB 2 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/633
+#EXTINF:-1 tvg-id="" tvg-name="SLO:SPORTKLUB 1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",SLO:SPORTKLUB 1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/634
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 2" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",PT:Eleven Sports 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/635
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 3" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",PT:Eleven Sports 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/636
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sports 1" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",PT:Eleven Sports 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/637
+#EXTINF:-1 tvg-id="" tvg-name="GR:OTE Sport2" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",GR:OTE Sport2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/638
+#EXTINF:-1 tvg-id="" tvg-name="BE:Canal C" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",BE:Canal C
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/639
+#EXTINF:-1 tvg-id="" tvg-name="BE:VTM 4" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",BE:VTM 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/640
+#EXTINF:-1 tvg-id="" tvg-name="NL:Extreme Sports" tvg-logo="http://logo.ndasat.com/iptv/images/37214_extrem.jpg" group-title="SPORT WORLD CHANNELS",NL:Extreme Sports
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/641
+#EXTINF:-1 tvg-id="" tvg-name="NL:Eurosport1" tvg-logo="http://logo.ndasat.com/iptv/images/86144_eurosport1.png" group-title="SPORT WORLD CHANNELS",NL:Eurosport1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/642
+#EXTINF:-1 tvg-id="" tvg-name="NL:Fox Sports 6" tvg-logo="http://logo.ndasat.com/iptv/images/47126_foxsports5.jpg" group-title="SPORT WORLD CHANNELS",NL:Fox Sports 6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/643
+#EXTINF:-1 tvg-id="" tvg-name="NL:Fox Sports 5" tvg-logo="http://logo.ndasat.com/iptv/images/20127_holland.jpg" group-title="SPORT WORLD CHANNELS",NL:Fox Sports 5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/644
+#EXTINF:-1 tvg-id="" tvg-name="NL:Fox Sports 3" tvg-logo="" group-title="SPORT WORLD CHANNELS",NL:Fox Sports 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/645
+#EXTINF:-1 tvg-id="" tvg-name="NL:Fox Sports 4" tvg-logo="http://logo.ndasat.com/iptv/images/90354_holland.jpg" group-title="SPORT WORLD CHANNELS",NL:Fox Sports 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/646
+#EXTINF:-1 tvg-id="" tvg-name="NL:Fox Sports 2" tvg-logo="http://logo.ndasat.com/iptv/images/79655_holland.jpg" group-title="SPORT WORLD CHANNELS",NL:Fox Sports 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/647
+#EXTINF:-1 tvg-id="" tvg-name="NL:Fox Sports 1" tvg-logo="http://logo.ndasat.com/iptv/images/63670_holland.jpg" group-title="SPORT WORLD CHANNELS",NL:Fox Sports 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/648
+#EXTINF:-1 tvg-id="" tvg-name="NL:Ziggo Sport Extra2" tvg-logo="http://logo.ndasat.com/iptv/images/11080_ziggo.png" group-title="SPORT WORLD CHANNELS",NL:Ziggo Sport Extra2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/649
+#EXTINF:-1 tvg-id="" tvg-name="NL:Ziggo Sport Extra1" tvg-logo="http://logo.ndasat.com/iptv/images/82828_ziggo.png" group-title="SPORT WORLD CHANNELS",NL:Ziggo Sport Extra1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/650
+#EXTINF:-1 tvg-id="" tvg-name="NL:Ziggo Sport Golf" tvg-logo="http://logo.ndasat.com/iptv/images/99198_ziggo.png" group-title="SPORT WORLD CHANNELS",NL:Ziggo Sport Golf
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/651
+#EXTINF:-1 tvg-id="" tvg-name="NL:Ziggo Sport Racing" tvg-logo="http://logo.ndasat.com/iptv/images/73995_ziggo.png" group-title="SPORT WORLD CHANNELS",NL:Ziggo Sport Racing
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/652
+#EXTINF:-1 tvg-id="" tvg-name="NL:Sport1 Select HD" tvg-logo="http://logo.ndasat.com/iptv/images/32597_holland.jpg" group-title="SPORT WORLD CHANNELS",NL:Sport1 Select HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/653
+#EXTINF:-1 tvg-id="" tvg-name="++++++ FRANCE CHANNELS ++++++" tvg-logo="http://logo.ndasat.com/iptv/images/12127_holland.jpg" group-title="Categories",++++++ FRANCE CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/654
+#EXTINF:-1 tvg-id="" tvg-name="FR:TF1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1.png" group-title="FRANCE CHANNELS",FR:TF1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/655
+#EXTINF:-1 tvg-id="" tvg-name="FR:France2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france2-fr.png" group-title="FRANCE CHANNELS",FR:France2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/656
+#EXTINF:-1 tvg-id="" tvg-name="FR:France3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france3-fr.png" group-title="FRANCE CHANNELS",FR:France3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/657
+#EXTINF:-1 tvg-id="" tvg-name="FR:France4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france4-fr.png" group-title="FRANCE CHANNELS",FR:France4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/658
+#EXTINF:-1 tvg-id="" tvg-name="FR:France5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france5-fr.png" group-title="FRANCE CHANNELS",FR:France5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/659
+#EXTINF:-1 tvg-id="" tvg-name="FR:M6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="FRANCE CHANNELS",FR:M6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/660
+#EXTINF:-1 tvg-id="" tvg-name="FR:C8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_8.png" group-title="FRANCE CHANNELS",FR:C8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/661
+#EXTINF:-1 tvg-id="" tvg-name="FR:W9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png" group-title="FRANCE CHANNELS",FR:W9
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/662
+#EXTINF:-1 tvg-id="" tvg-name="FR:TFX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tfx-fr.png" group-title="FRANCE CHANNELS",FR:TFX
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/663
+#EXTINF:-1 tvg-id="" tvg-name="FR:6 Ter" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6ter_fr.png" group-title="FRANCE CHANNELS",FR:6 Ter
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/664
+#EXTINF:-1 tvg-id="" tvg-name="FR:TF1 Series Film" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1-series-films-fr.png" group-title="FRANCE CHANNELS",FR:TF1 Series Film
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/665
+#EXTINF:-1 tvg-id="" tvg-name="FR:RTL9 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl9.png" group-title="FRANCE CHANNELS",FR:RTL9 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/666
+#EXTINF:-1 tvg-id="" tvg-name="FR:Paris Premier" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paris_premiere.png" group-title="FRANCE CHANNELS",FR:Paris Premier
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/667
+#EXTINF:-1 tvg-id="" tvg-name="FR:TV BREIZH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_breizh_fr.png" group-title="FRANCE CHANNELS",FR:TV BREIZH
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/668
+#EXTINF:-1 tvg-id="" tvg-name="FR:TMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tmc_mc.png" group-title="FRANCE CHANNELS",FR:TMC
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/669
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cherie25" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cherie25-fr.png" group-title="FRANCE CHANNELS",FR:Cherie25
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/670
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Story" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-story-fr.png" group-title="FRANCE CHANNELS",FR:RMC Story
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/671
+#EXTINF:-1 tvg-id="" tvg-name="FR:Teva HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/T%C3%A9va_2014.svg/120px-T%C3%A9va_2014.svg.png" group-title="FRANCE CHANNELS",FR:Teva HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/672
+#EXTINF:-1 tvg-id="" tvg-name="FR:TV5 monde Europe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-monde-europe-fr.png" group-title="FRANCE CHANNELS",FR:TV5 monde Europe
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/673
+#EXTINF:-1 tvg-id="" tvg-name="FR:France Info" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france_info_tv.png" group-title="FRANCE CHANNELS",FR:France Info
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/674
+#EXTINF:-1 tvg-id="" tvg-name="FR:CNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="FRANCE CHANNELS",FR:CNews
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/675
+#EXTINF:-1 tvg-id="" tvg-name="FR:France24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png" group-title="FRANCE CHANNELS",FR:France24
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/676
+#EXTINF:-1 tvg-id="" tvg-name="FR:BFM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-tv-fr.png" group-title="FRANCE CHANNELS",FR:BFM TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/677
+#EXTINF:-1 tvg-id="" tvg-name="FR:BFM Business" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm_fr_business.png" group-title="FRANCE CHANNELS",FR:BFM Business
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/678
+#EXTINF:-1 tvg-id="" tvg-name="FR:LCP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcp-assemblee-nationale-fr.png" group-title="FRANCE CHANNELS",FR:LCP
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/679
+#EXTINF:-1 tvg-id="" tvg-name="FR:Arte" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arte_de.png" group-title="FRANCE CHANNELS",FR:Arte
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/680
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal+ 聽fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_clair.png" group-title="FRANCE CHANNELS",FR:Canal+ 聽fr
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/681
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal+ 聽Decale" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_decale.png" group-title="FRANCE CHANNELS",FR:Canal+ 聽Decale
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/682
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal+ Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_cinema.png" group-title="FRANCE CHANNELS",FR:Canal+ Cinema
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/683
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal+ 聽Family" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_family.png" group-title="FRANCE CHANNELS",FR:Canal+ 聽Family
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/684
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal+ Series" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_series.png" group-title="FRANCE CHANNELS",FR:Canal+ Series
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/685
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canal+ Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport.png" group-title="FRANCE CHANNELS",FR:Canal+ Sport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/686
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cine 聽Emotion" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_cine_plus_emotion.png" group-title="FRANCE CHANNELS",FR:Cine 聽Emotion
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/687
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cine 聽Frisson" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_cine_plus_frisson.png" group-title="FRANCE CHANNELS",FR:Cine 聽Frisson
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/688
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cine 聽Premier" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_cine_plus_premier.png" group-title="FRANCE CHANNELS",FR:Cine 聽Premier
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/689
+#EXTINF:-1 tvg-id="" tvg-name="FR:CineFamiz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_cine_plus_famiz.png" group-title="FRANCE CHANNELS",FR:CineFamiz
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/690
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cine 聽Classic" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_cine_plus_classic.png" group-title="FRANCE CHANNELS",FR:Cine 聽Classic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/691
+#EXTINF:-1 tvg-id="" tvg-name="FR:POLAR+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polar-plus-fr.png" group-title="FRANCE CHANNELS",FR:POLAR+
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/692
+#EXTINF:-1 tvg-id="" tvg-name="FR:WARNER TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_tv_us.png" group-title="FRANCE CHANNELS",FR:WARNER TV HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/693
+#EXTINF:-1 tvg-id="" tvg-name="FR:OCS-MAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/ocs_max.png" group-title="FRANCE CHANNELS",FR:OCS-MAX
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/694
+#EXTINF:-1 tvg-id="" tvg-name="FR:OCS-GEANT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/ocs_geants.png" group-title="FRANCE CHANNELS",FR:OCS-GEANT
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/695
+#EXTINF:-1 tvg-id="" tvg-name="FR:OCS-CITY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/ocs_city.png" group-title="FRANCE CHANNELS",FR:OCS-CITY
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/696
+#EXTINF:-1 tvg-id="" tvg-name="FR:OCS-CHOC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/ocs_choc.png" group-title="FRANCE CHANNELS",FR:OCS-CHOC
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/697
+#EXTINF:-1 tvg-id="" tvg-name="FR:Action hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/action_fr.png" group-title="FRANCE CHANNELS",FR:Action hd
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/698
+#EXTINF:-1 tvg-id="" tvg-name="FR:Paramount Channel FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="FRANCE CHANNELS",FR:Paramount Channel FR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/699
+#EXTINF:-1 tvg-id="" tvg-name="FR:Comedie+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_comedie_plus.png" group-title="FRANCE CHANNELS",FR:Comedie+
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/700
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bet" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bet-france-us-fr.png" group-title="FRANCE CHANNELS",FR:Bet
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/701
+#EXTINF:-1 tvg-id="" tvg-name="FR:Comedy Central" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vice-tv-france-us-fr.png" group-title="FRANCE CHANNELS",FR:Comedy Central
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/702
+#EXTINF:-1 tvg-id="" tvg-name="FR:13 Rue" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/13eme_rue_fr.png" group-title="FRANCE CHANNELS",FR:13 Rue
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/703
+#EXTINF:-1 tvg-id="" tvg-name="FR:SERIE CLUB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_serie_club.png" group-title="FRANCE CHANNELS",FR:SERIE CLUB
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/704
+#EXTINF:-1 tvg-id="" tvg-name="FR:AB1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ab1.png" group-title="FRANCE CHANNELS",FR:AB1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/705
+#EXTINF:-1 tvg-id="" tvg-name="FR:Syfy HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png" group-title="FRANCE CHANNELS",FR:Syfy HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/706
+#EXTINF:-1 tvg-id="" tvg-name="FR:PLANETE+ HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus.png" group-title="FRANCE CHANNELS",FR:PLANETE+ HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/707
+#EXTINF:-1 tvg-id="" tvg-name="FR:PLANETE+ A&E HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus_action_experience.png" group-title="FRANCE CHANNELS",FR:PLANETE+ A&E HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/708
+#EXTINF:-1 tvg-id="" tvg-name="FR:Planete+ CI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus_crime_investigation.png" group-title="FRANCE CHANNELS",FR:Planete+ CI
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/709
+#EXTINF:-1 tvg-id="" tvg-name="FR:NatGeo Wild HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="FRANCE CHANNELS",FR:NatGeo Wild HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/710
+#EXTINF:-1 tvg-id="" tvg-name="FR:National Geographic HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="FRANCE CHANNELS",FR:National Geographic HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/711
+#EXTINF:-1 tvg-id="" tvg-name="FR:USHUAIA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="FRANCE CHANNELS",FR:USHUAIA TV HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/712
+#EXTINF:-1 tvg-id="" tvg-name="FR:ANIMAUX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animaux_fr.png" group-title="FRANCE CHANNELS",FR:ANIMAUX
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/713
+#EXTINF:-1 tvg-id="" tvg-name="FR:Discovery Science fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-science-france-us-fr.png" group-title="FRANCE CHANNELS",FR:Discovery Science fr
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/714
+#EXTINF:-1 tvg-id="" tvg-name="FR:Discovery FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="FRANCE CHANNELS",FR:Discovery FR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/715
+#EXTINF:-1 tvg-id="" tvg-name="FR:DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="FRANCE CHANNELS",FR:DISCOVERY ID HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/716
+#EXTINF:-1 tvg-id="" tvg-name="FR:Crime District" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_district_fr.png" group-title="FRANCE CHANNELS",FR:Crime District
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/717
+#EXTINF:-1 tvg-id="" tvg-name="FR:Science et Vie TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/science_et_vie_tv_fr.png" group-title="FRANCE CHANNELS",FR:Science et Vie TV HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/718
+#EXTINF:-1 tvg-id="" tvg-name="FR:Toute l Histoire HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toute_histoire_fr.png" group-title="FRANCE CHANNELS",FR:Toute l Histoire HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/719
+#EXTINF:-1 tvg-id="" tvg-name="FR:Histoire" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/histoire-tv-fr.png" group-title="FRANCE CHANNELS",FR:Histoire
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/720
+#EXTINF:-1 tvg-id="" tvg-name="FR:Trek" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trek_fr.png" group-title="FRANCE CHANNELS",FR:Trek
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/721
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Decouvert" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-decouverte-fr.png" group-title="FRANCE CHANNELS",FR:RMC Decouvert
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/722
+#EXTINF:-1 tvg-id="" tvg-name="FR:Seasons hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seasons-fr.png" group-title="FRANCE CHANNELS",FR:Seasons hd
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/723
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live9" tvg-logo="http://fauconteam.com//logo//RMC-SPORT-LIVE-9-HD.png" group-title="FRANCE CHANNELS",FR:RMC Sport Live9
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/724
+#EXTINF:-1 tvg-id="" tvg-name="FR:Chasse et Peche" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chasse_et_peche.png" group-title="FRANCE CHANNELS",FR:Chasse et Peche
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/725
+#EXTINF:-1 tvg-id="" tvg-name="FR:Tiji" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tiji_fr.png" group-title="FRANCE CHANNELS",FR:Tiji
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/726
+#EXTINF:-1 tvg-id="" tvg-name="FR:Piwi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_piwi_plus.png" group-title="FRANCE CHANNELS",FR:Piwi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/727
+#EXTINF:-1 tvg-id="" tvg-name="FR:Nick Junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_junior_fr.png" group-title="FRANCE CHANNELS",FR:Nick Junior
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/728
+#EXTINF:-1 tvg-id="" tvg-name="FR:NICK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="FRANCE CHANNELS",FR:NICK HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/729
+#EXTINF:-1 tvg-id="" tvg-name="FR:Boing" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boing_fr.png" group-title="FRANCE CHANNELS",FR:Boing
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/730
+#EXTINF:-1 tvg-id="" tvg-name="FR:Cartoon Network HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="FRANCE CHANNELS",FR:Cartoon Network HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/731
+#EXTINF:-1 tvg-id="" tvg-name="FR:Boomerang" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="FRANCE CHANNELS",FR:Boomerang
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/732
+#EXTINF:-1 tvg-id="" tvg-name="FR:Gulli" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="FRANCE CHANNELS",FR:Gulli
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/733
+#EXTINF:-1 tvg-id="" tvg-name="FR:Teletoon+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_pl_teletoon.png" group-title="FRANCE CHANNELS",FR:Teletoon+
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/734
+#EXTINF:-1 tvg-id="" tvg-name="FR:Disney Junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="FRANCE CHANNELS",FR:Disney Junior
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/735
+#EXTINF:-1 tvg-id="" tvg-name="FR:Disney fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="FRANCE CHANNELS",FR:Disney fr
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/736
+#EXTINF:-1 tvg-id="" tvg-name="FR:Disney +" tvg-logo="http://fauconteam.com//logo//disneycinemagic.png" group-title="FRANCE CHANNELS",FR:Disney +
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/737
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalJ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="FRANCE CHANNELS",FR:CanalJ
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/738
+#EXTINF:-1 tvg-id="" tvg-name="FR:MANGAS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mangas_fr.png" group-title="FRANCE CHANNELS",FR:MANGAS HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/739
+#EXTINF:-1 tvg-id="" tvg-name="FR:J-one" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_one_fr.png" group-title="FRANCE CHANNELS",FR:J-one
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/740
+#EXTINF:-1 tvg-id="" tvg-name="FR:Toonami" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toonami-us.png" group-title="FRANCE CHANNELS",FR:Toonami
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/741
+#EXTINF:-1 tvg-id="" tvg-name="FR:Game one" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/game_one.png" group-title="FRANCE CHANNELS",FR:Game one
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/742
+#EXTINF:-1 tvg-id="" tvg-name="FR:InfoSport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/infosport-plus-fr.png" group-title="FRANCE CHANNELS",FR:InfoSport
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/743
+#EXTINF:-1 tvg-id="" tvg-name="FR:E!" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png" group-title="FRANCE CHANNELS",FR:E!
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/744
+#EXTINF:-1 tvg-id="" tvg-name="FR:NRJ12" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrj_fr_12.png" group-title="FRANCE CHANNELS",FR:NRJ12
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/745
+#EXTINF:-1 tvg-id="" tvg-name="FR:One TV" tvg-logo="http://fauconteam.com//logo//ellegirl.png" group-title="FRANCE CHANNELS",FR:One TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/746
+#EXTINF:-1 tvg-id="" tvg-name="FR:MTV HD" tvg-logo="http://fauconteam.com//logo//mtvhd.png" group-title="FRANCE CHANNELS",FR:MTV HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/747
+#EXTINF:-1 tvg-id="" tvg-name="FR:Teletoon +1" tvg-logo="" group-title="FRANCE CHANNELS",FR:Teletoon +1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/748
+#EXTINF:-1 tvg-id="" tvg-name="FR:MTV Hits fr" tvg-logo="http://fauconteam.com//logo//mtvhits.png" group-title="FRANCE CHANNELS",FR:MTV Hits fr
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/749
+#EXTINF:-1 tvg-id="" tvg-name="FR:CStar" tvg-logo="http://fauconteam.com//logo//cstar.png" group-title="FRANCE CHANNELS",FR:CStar
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/750
+#EXTINF:-1 tvg-id="" tvg-name="FR:M6 Music" tvg-logo="http://fauconteam.com//logo//m6music.png" group-title="FRANCE CHANNELS",FR:M6 Music
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/751
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay01" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay01
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/752
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay02" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay02
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/753
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay03" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay03
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/754
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay04" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay04
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/755
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay05" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay05
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/756
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay06" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay06
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/757
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay07" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay07
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/758
+#EXTINF:-1 tvg-id="" tvg-name="FR:Canalplay08" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:Canalplay08
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/759
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay09" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay09
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/760
+#EXTINF:-1 tvg-id="" tvg-name="FR:CanalPlay10" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="FRANCE CHANNELS",FR:CanalPlay10
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/761
+#EXTINF:-1 tvg-id="" tvg-name="FR:LCI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lci-fr.png" group-title="FRANCE CHANNELS",FR:LCI
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/762
+#EXTINF:-1 tvg-id="" tvg-name="FR:Euronews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="FRANCE CHANNELS",FR:Euronews
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/763
+#EXTINF:-1 tvg-id="" tvg-name="FR:TF1 +1" tvg-logo="" group-title="FRANCE CHANNELS",FR:TF1 +1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/764
+#EXTINF:-1 tvg-id="" tvg-name="FR:Altice Studio" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/altice-studio-fr.png" group-title="FRANCE CHANNELS",FR:Altice Studio
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/765
+#EXTINF:-1 tvg-id="" tvg-name="FR:Nickelodeon 4 Teen" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon-teen-us-fr.png" group-title="FRANCE CHANNELS",FR:Nickelodeon 4 Teen
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/766
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 1" tvg-logo="https://c1.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2021/06/ligue-1-x-amazon-prime-video.jpg" group-title="FRANCE CHANNELS",FR:Amazon Prime 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/767
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 2" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/768
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 3" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/769
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 4" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/770
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 5" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/771
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 6" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/772
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 7" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 7
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/773
+#EXTINF:-1 tvg-id="" tvg-name="FR:Amazon Prime 8" tvg-logo="" group-title="FRANCE CHANNELS",FR:Amazon Prime 8
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/774
+#EXTINF:-1 tvg-id="" tvg-name="NourElsham" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nour-el-sham-sy.png" group-title="SYRIA CHANNELS",NourElsham
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/501
+#EXTINF:-1 tvg-id="" tvg-name="++++++ IRAQ CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ IRAQ CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/502
+#EXTINF:-1 tvg-id="" tvg-name="W.tv" tvg-logo="http://logo.ndasat.com/iptv/images/31879_imaginemovies.jpg" group-title="IRAQ CHANNELS",W.tv
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/503
+#EXTINF:-1 tvg-id="" tvg-name="Alrabiaa" tvg-logo="http://logo.ndasat.com/iptv/images/86837_ugarit.jpg" group-title="IRAQ CHANNELS",Alrabiaa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/504
+#EXTINF:-1 tvg-id="" tvg-name="Alrabiaa" tvg-logo="http://logo.ndasat.com/iptv/images/86837_ugarit.jpg" group-title="IRAQ CHANNELS",Alrabiaa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/505
+#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="" group-title="IRAQ CHANNELS",INews
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/506
+#EXTINF:-1 tvg-id="" tvg-name="Al Falouja" tvg-logo="" group-title="IRAQ CHANNELS",Al Falouja
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/507
+#EXTINF:-1 tvg-id="" tvg-name="Asia TV" tvg-logo="" group-title="IRAQ CHANNELS",Asia TV
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/508
+#EXTINF:-1 tvg-id="" tvg-name="Iraq-ANB" tvg-logo="" group-title="IRAQ CHANNELS",Iraq-ANB
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/509
+#EXTINF:-1 tvg-id="" tvg-name="Iraq24" tvg-logo="" group-title="IRAQ CHANNELS",Iraq24
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/510
+#EXTINF:-1 tvg-id="" tvg-name="Iraq-Al Duaa" tvg-logo="" group-title="IRAQ CHANNELS",Iraq-Al Duaa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/511
+#EXTINF:-1 tvg-id="" tvg-name="Iraq-Al Sharqia news" tvg-logo="" group-title="IRAQ CHANNELS",Iraq-Al Sharqia news
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/512
+#EXTINF:-1 tvg-id="" tvg-name="Al Thaqalayn" tvg-logo="" group-title="IRAQ CHANNELS",Al Thaqalayn
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/513
+#EXTINF:-1 tvg-id="" tvg-name="Iraq-Iraqia_News" tvg-logo="" group-title="IRAQ CHANNELS",Iraq-Iraqia_News
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/514
+#EXTINF:-1 tvg-id="" tvg-name="++++++ Bein AFC ++++++" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Categories",++++++ Bein AFC ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/515
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 SD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC1 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/516
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 SD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC2 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/517
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 SD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC3 SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/518
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC Global SD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC Global SD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/519
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 HD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/520
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 HD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC2 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/521
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 HD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC3 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/522
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFC Global HD" tvg-logo="https://i.top4top.io/p_22912r5dv1.png" group-title="Bein AFC",Bein AFC Global HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/523
+#EXTINF:-1 tvg-id="" tvg-name="++++++ KIDS CHANNELS++++++" tvg-logo="http://logo.ndasat.com/iptv/images/6144_seevidrama.png" group-title="Categories",++++++ KIDS CHANNELS++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/526
+#EXTINF:-1 tvg-id="" tvg-name="Jeem" tvg-logo="http://logo.ndasat.com/iptv/images/18089_jeemtv.jpg" group-title="KIDS CHANNELS",Jeem
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/527
+#EXTINF:-1 tvg-id="" tvg-name="CNArabic" tvg-logo="http://logo.ndasat.com/iptv/images/99437_cnarabia.jpg" group-title="KIDS CHANNELS",CNArabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/528
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="http://logo.ndasat.com/iptv/images/33420_spacetoon.jpg" group-title="KIDS CHANNELS",SPACETOON
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/529
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang Ar" tvg-logo="" group-title="KIDS CHANNELS",Boomerang Ar
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/530
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior AR" tvg-logo="http://logo.ndasat.com/iptv/images/27249_osnsports.jpg" group-title="KIDS CHANNELS",Disney Junior AR
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/531
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="" group-title="KIDS CHANNELS",DreamWorks
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/532
+#EXTINF:-1 tvg-id="" tvg-name="Majid" tvg-logo="http://logo.ndasat.com/iptv/images/90805_majid-95x49.gif" group-title="KIDS CHANNELS",Majid
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/533
+#EXTINF:-1 tvg-id="" tvg-name="Rotana_kids_HD" tvg-logo="http://logo.ndasat.com/iptv/images/41798_toyorbaby.jpg" group-title="KIDS CHANNELS",Rotana_kids_HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/534
+#EXTINF:-1 tvg-id="" tvg-name="Gulli Arabic" tvg-logo="" group-title="KIDS CHANNELS",Gulli Arabic
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/535
+#EXTINF:-1 tvg-id="" tvg-name="Karameesh" tvg-logo="http://logo.ndasat.com/iptv/images/56329_karamesh.jpg" group-title="KIDS CHANNELS",Karameesh
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/536
+#EXTINF:-1 tvg-id="" tvg-name="Toyor Aljannah" tvg-logo="http://logo.ndasat.com/iptv/images/18642_toyor.jpg" group-title="KIDS CHANNELS",Toyor Aljannah
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/537
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Clubhouse" tvg-logo="http://logo.ndasat.com/iptv/images/60028_micky.jpg" group-title="KIDS CHANNELS",Mickey Clubhouse
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/538
+#EXTINF:-1 tvg-id="" tvg-name="Atfal mawaheb" tvg-logo="http://logo.ndasat.com/iptv/images/58190_50.png" group-title="KIDS CHANNELS",Atfal mawaheb
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/539
+#EXTINF:-1 tvg-id="" tvg-name="Alsanafir" tvg-logo="" group-title="KIDS CHANNELS",Alsanafir
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/540
+#EXTINF:-1 tvg-id="" tvg-name="Masha Wa el Doob" tvg-logo="http://logo.ndasat.com/iptv/images/51766_CM1.jpg" group-title="KIDS CHANNELS",Masha Wa el Doob
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/541
+#EXTINF:-1 tvg-id="" tvg-name="Tom et Jerry" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="KIDS CHANNELS",Tom et Jerry
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/542
+#EXTINF:-1 tvg-id="" tvg-name="Hikayat 3alamia" tvg-logo="" group-title="KIDS CHANNELS",Hikayat 3alamia
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/543
+#EXTINF:-1 tvg-id="" tvg-name="Imam_Bokhari" tvg-logo="" group-title="KIDS CHANNELS",Imam_Bokhari
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/544
+#EXTINF:-1 tvg-id="" tvg-name="Roya_Kids" tvg-logo="" group-title="KIDS CHANNELS",Roya_Kids
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/545
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal" tvg-logo="" group-title="KIDS CHANNELS",Ajyal
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/546
+#EXTINF:-1 tvg-id="" tvg-name="Grendayzir" tvg-logo="" group-title="KIDS CHANNELS",Grendayzir
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/555
+#EXTINF:-1 tvg-id="" tvg-name="ALQANAS1" tvg-logo="" group-title="KIDS CHANNELS",ALQANAS1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/556
+#EXTINF:-1 tvg-id="" tvg-name="Jazirat_Al_Kanz_" tvg-logo="" group-title="KIDS CHANNELS",Jazirat_Al_Kanz_
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/557
+#EXTINF:-1 tvg-id="" tvg-name="ALQANAS2" tvg-logo="" group-title="KIDS CHANNELS",ALQANAS2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/558
+#EXTINF:-1 tvg-id="" tvg-name="Elbatal_Khomasi" tvg-logo="" group-title="KIDS CHANNELS",Elbatal_Khomasi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/559
+#EXTINF:-1 tvg-id="" tvg-name="Haydi" tvg-logo="" group-title="KIDS CHANNELS",Haydi
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/560
+#EXTINF:-1 tvg-id="" tvg-name="Qisas_Nisaa" tvg-logo="" group-title="KIDS CHANNELS",Qisas_Nisaa
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/561
+#EXTINF:-1 tvg-id="" tvg-name="Qisas_Hayawanat" tvg-logo="" group-title="KIDS CHANNELS",Qisas_Hayawanat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/562
+#EXTINF:-1 tvg-id="" tvg-name="Qisas_3ajaib" tvg-logo="" group-title="KIDS CHANNELS",Qisas_3ajaib
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/563
+#EXTINF:-1 tvg-id="" tvg-name="Qisas_Ayat" tvg-logo="" group-title="KIDS CHANNELS",Qisas_Ayat
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/564
+#EXTINF:-1 tvg-id="" tvg-name="++++++ SPORT WORLD CHANNELS ++++++" tvg-logo="" group-title="Categories",++++++ SPORT WORLD CHANNELS ++++++
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/565
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sports News De" tvg-logo="http://logo.ndasat.com/iptv/images/57974_skysportnews.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Sports News De
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/567
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69607_skysport.png" group-title="SPORT WORLD CHANNELS",DE:Sky Sport 1 DE
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/568
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 2 DE" tvg-logo="http://logo.ndasat.com/iptv/images/93351_skysport.png" group-title="SPORT WORLD CHANNELS",DE:Sky Sport 2 DE
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/569
+#EXTINF:-1 tvg-id="" tvg-name="DE:Dazn1" tvg-logo="http://logo.ndasat.com/iptv/images/6516_images.png" group-title="SPORT WORLD CHANNELS",DE:Dazn1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/570
+#EXTINF:-1 tvg-id="" tvg-name="DE:Dazn2" tvg-logo="http://logo.ndasat.com/iptv/images/6516_images.png" group-title="SPORT WORLD CHANNELS",DE:Dazn2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/571
+#EXTINF:-1 tvg-id="" tvg-name="DE:Eurosport1 DE" tvg-logo="http://logo.ndasat.com/iptv/images/69476_eurosport1.png" group-title="SPORT WORLD CHANNELS",DE:Eurosport1 DE
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/572
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sport 1+" tvg-logo="http://logo.ndasat.com/iptv/images/32182_sport1.png" group-title="SPORT WORLD CHANNELS",DE:Sport 1+
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/573
+#EXTINF:-1 tvg-id="" tvg-name="DE:Eurosport 2 Extra" tvg-logo="http://logo.ndasat.com/iptv/images/83240_sportdigital.png" group-title="SPORT WORLD CHANNELS",DE:Eurosport 2 Extra
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/574
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga1 de" tvg-logo="http://logo.ndasat.com/iptv/images/70870_skybunde.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga1 de
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/575
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga1 BKP" tvg-logo="http://logo.ndasat.com/iptv/images/51321_sport1usa.png" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga1 BKP
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/576
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga2 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/50624_bundesliga2.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga2 (MT)
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/577
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga3 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/73825_bundesliga3.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga3 (MT)
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/578
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga4 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/29696_bunesliga4.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga4 (MT)
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/579
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga5 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/24854_bundesliga5.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga5 (MT)
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/580
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Bundesliga6 (MT)" tvg-logo="http://logo.ndasat.com/iptv/images/91455_bundesliga6.jpg" group-title="SPORT WORLD CHANNELS",DE:Sky Bundesliga6 (MT)
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/581
+#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom_Bundesliga1" tvg-logo="" group-title="SPORT WORLD CHANNELS",DE:Telekom_Bundesliga1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/582
+#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom_Bundesliga2" tvg-logo="" group-title="SPORT WORLD CHANNELS",DE:Telekom_Bundesliga2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/583
+#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom_Bundesliga3" tvg-logo="" group-title="SPORT WORLD CHANNELS",DE:Telekom_Bundesliga3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/584
+#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom_Bundesliga4" tvg-logo="" group-title="SPORT WORLD CHANNELS",DE:Telekom_Bundesliga4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/585
+#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom_Bundesliga5" tvg-logo="" group-title="SPORT WORLD CHANNELS",DE:Telekom_Bundesliga5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/586
+#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom_Bundesliga6" tvg-logo="" group-title="SPORT WORLD CHANNELS",DE:Telekom_Bundesliga6
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/587
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Uno HD" tvg-logo="http://logo.ndasat.com/iptv/images/59262_439-italian_proverbs_quotes.jpg" group-title="SPORT WORLD CHANNELS",IT:Sky Uno HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/588
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Sport F1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/75691_sky sports f1 live mykora.png" group-title="SPORT WORLD CHANNELS",IT:Sky Sport F1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/589
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Sports Arena" tvg-logo="http://logo.ndasat.com/iptv/images/55433_sky sports 3 live mykora.png" group-title="SPORT WORLD CHANNELS",IT:Sky Sports Arena
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/590
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Sports 24 HD" tvg-logo="http://logo.ndasat.com/iptv/images/17668_24it.jpeg" group-title="SPORT WORLD CHANNELS",IT:Sky Sports 24 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/591
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Sports SerieA" tvg-logo="http://logo.ndasat.com/iptv/images/47457_406.png" group-title="SPORT WORLD CHANNELS",IT:Sky Sports SerieA
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/592
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Sports 1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/81777_405.png" group-title="SPORT WORLD CHANNELS",IT:Sky Sports 1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/593
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Moto GP  it" tvg-logo="http://logo.ndasat.com/iptv/images/68713_SkySportMotoGP.logo_.png" group-title="SPORT WORLD CHANNELS",IT:Sky Moto GP  it
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/594
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Cinema 聽Uno" tvg-logo="http://logo.ndasat.com/iptv/images/45462_skycinema.jpg" group-title="SPORT WORLD CHANNELS",IT:Sky Cinema 聽Uno
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/595
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports News" tvg-logo="http://logo.ndasat.com/iptv/images/95592_7176.jpg" group-title="SPORT WORLD CHANNELS",UK:Sky Sports News
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/596
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports F1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/39437_f1new_2682772.jpg" group-title="SPORT WORLD CHANNELS",UK:Sky Sports F1 HD
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/597
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports Premier league" tvg-logo="http://logo.ndasat.com/iptv/images/4604_BRPuXC.jpg" group-title="SPORT WORLD CHANNELS",UK:Sky Sports Premier league
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/598
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports Golf" tvg-logo="http://logo.ndasat.com/iptv/images/35482_915.png" group-title="SPORT WORLD CHANNELS",UK:Sky Sports Golf
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/599
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports Action" tvg-logo="http://logo.ndasat.com/iptv/images/17337_914.png" group-title="SPORT WORLD CHANNELS",UK:Sky Sports Action
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/600
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports Cricket" tvg-logo="http://logo.ndasat.com/iptv/images/90590_922.png" group-title="SPORT WORLD CHANNELS",UK:Sky Sports Cricket
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/601
+#EXTINF:-1 tvg-id="" tvg-name="UK:Sky Sports Main Event" tvg-logo="http://logo.ndasat.com/iptv/images/90590_922.png" group-title="SPORT WORLD CHANNELS",UK:Sky Sports Main Event
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/602
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT Sport 2" tvg-logo="http://logo.ndasat.com/iptv/images/66520_930.png" group-title="SPORT WORLD CHANNELS",UK:BT Sport 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/603
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT Sport 1" tvg-logo="http://logo.ndasat.com/iptv/images/87909_929.png" group-title="SPORT WORLD CHANNELS",UK:BT Sport 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/604
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT SPORT EXTRA 1" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",UK:BT SPORT EXTRA 1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/605
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT SPORT EXTRA 2" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",UK:BT SPORT EXTRA 2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/606
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT SPORT EXTRA 3" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",UK:BT SPORT EXTRA 3
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/607
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT SPORT EXTRA 4" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",UK:BT SPORT EXTRA 4
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/608
+#EXTINF:-1 tvg-id="" tvg-name="RS:Arena sports 5" tvg-logo="" group-title="SPORT WORLD CHANNELS",RS:Arena sports 5
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/609
+#EXTINF:-1 tvg-id="" tvg-name="RS:Arena Sport1" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Arena Sport1
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/610
+#EXTINF:-1 tvg-id="" tvg-name="RS:Arena Sport2" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="SPORT WORLD CHANNELS",RS:Arena Sport2
+http://dikoapi.xyz:8080/pcccde123/zLLk0B2W6D/611
